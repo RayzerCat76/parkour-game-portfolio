@@ -10,7 +10,7 @@ The initial presentation was largely side-scrolling, with high-contrast black an
 
 ## Current stage
 
-The downloadable v580 macOS review build starts and accepts movement input; the development record contains earlier complete-journey checks. A fresh automated check on 1 November 2026 reached Fragments, but its fourth voice route did not verify movement and the process ended with a native double fault before later chapters. A later v591 source/build experiment failed its street-turn movement review and was held. This portfolio copy therefore presents a playable review prototype and its development process, not a finished or externally accepted game. Movement feel, visual clarity, pacing, and a full fresh human playthrough still need review.
+Ray reports that his last complete start-to-ending manual playthrough of the downloadable v580 macOS build passed; this portfolio does not include a recording of that run. A separate automated check on 1 November 2026 reached Fragments, but its fourth voice route did not verify movement and the process ended with a native double fault before later chapters. A later v591 source/build experiment failed its street-turn movement review and was held. This portfolio copy presents a playable review prototype and its development process, not a finished or externally accepted game. External feedback on movement feel, visual clarity, and pacing remains open.
 
 `UnityProject/` contains the latest local source snapshot as of 1 November 2026. Its newer experimental code is not identical to the v580 binary. The source includes Unity assets, packages, project settings, and the game-specific rebuild/build tools; generated caches and the private design audio are excluded.
 
