@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 5c304d758a6cb474a8b9b76444c742ab
+ModelImporter:
+  serializedVersion: 24200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dreamer_Clothes
+    second: {fileID: 2100000, guid: 514347efded6a4e89ba5c985896bc594, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dreamer_Eyes
+    second: {fileID: 2100000, guid: d3e29c80503724d23b8543941de9dd46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dreamer_Hair
+    second: {fileID: 2100000, guid: 1c9f6f41bc1c1425997bd3c134a17b3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dreamer_Shoes
+    second: {fileID: 2100000, guid: c83cd01d649444ac184d3f7b07bb83d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dreamer_Skin
+    second: {fileID: 2100000, guid: 377270410b89b4333b66aeda42dc16c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dreamer_Teeth
+    second: {fileID: 2100000, guid: 4a19a68ec4c2846868eefbeb9678821c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fruit_Blossom
+    second: {fileID: 2100000, guid: 6aed3f784e09b43bfa842969b6742b40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fruit_Skin
+    second: {fileID: 2100000, guid: e4eedc6b2980c48ffa1f917ee76f1c0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fruit_Stem
+    second: {fileID: 2100000, guid: 4901b49d2f8794e6d8e17900ca968d57, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hospital_Chrome
+    second: {fileID: 2100000, guid: 0569f094e3f1a40f886f35cda26160c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hospital_Fabric
+    second: {fileID: 2100000, guid: 97085e755507c44779fd01e750a3297b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hospital_Paint
+    second: {fileID: 2100000, guid: a6ffbb0fba8664366a9a4264c7bc42f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hospital_Plastic
+    second: {fileID: 2100000, guid: acd365642986f44cf8bf476a2bccedaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hospital_Rubber
+    second: {fileID: 2100000, guid: ff5e846bfe7ce43759109d0045fd95ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hospital_Wood
+    second: {fileID: 2100000, guid: 5e66f5dd3b3414e369ee5b1cc007b0ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Island_Grass
+    second: {fileID: 2100000, guid: cce2e15c3f2b345c1b80b6c55d5497b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Island_Ground
+    second: {fileID: 2100000, guid: d7c490fb99f7c4adb857461cbe65b869, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Leaf_Living
+    second: {fileID: 2100000, guid: 54d662ac4668047368e556f6089cb930, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_Brows
+    second: {fileID: 2100000, guid: 7db23b005055941e98ee028b5b909c1f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_Clothes
+    second: {fileID: 2100000, guid: 5292766ecdf044e87919c2dc5920d7b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_Eyes
+    second: {fileID: 2100000, guid: 082b21f8c67b54c62b235897863e4e39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_Hair
+    second: {fileID: 2100000, guid: 666336b48c0584e188050f6b4c573751, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_Lashes
+    second: {fileID: 2100000, guid: 1964a120fd5c94facbe0c787aec321be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_Shoes
+    second: {fileID: 2100000, guid: b6c21f3f403b5417ea253bd6cfcc02c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_Skin
+    second: {fileID: 2100000, guid: 3c6679ad13afb4b66ba19ee1f6ea4b72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_Teeth
+    second: {fileID: 2100000, guid: 7aaa203061baf44198a2da35bd573337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nurse_Brows
+    second: {fileID: 2100000, guid: ae3a7ac48d7ac46a0b24122a8c1af27a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nurse_Clothes
+    second: {fileID: 2100000, guid: e7bb50581dc33490598b360e8da068d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nurse_Eyes
+    second: {fileID: 2100000, guid: 8d1a3e082fb88440a882985497e5c84f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nurse_Hair
+    second: {fileID: 2100000, guid: f66923f658700454599f93b3a5d129dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nurse_Lashes
+    second: {fileID: 2100000, guid: 2ac09759702c44c9db8b6aae598cf7f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nurse_Shoes
+    second: {fileID: 2100000, guid: 5545cb3cb5a104c0eb2f9b04f704e32d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nurse_Skin
+    second: {fileID: 2100000, guid: 4897931a1d5da40bbbd0c9f0b27c139c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nurse_Teeth
+    second: {fileID: 2100000, guid: 2fa58af2fd1174c2c811d955667aa738, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room_Aluminium
+    second: {fileID: 2100000, guid: c859e312660d24d26892f7d89e1c7126, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room_Ceiling
+    second: {fileID: 2100000, guid: 74a16b2b9a6f54569ba58aabd44f5b62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room_Clock
+    second: {fileID: 2100000, guid: 2cb266f6e0ad94a98bf62e6e5dfd4c79, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room_Diffuser
+    second: {fileID: 2100000, guid: e87bf577b2b3d4dac843cadf50e8a6c9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room_Seams
+    second: {fileID: 2100000, guid: d77dfa94534a7405aa82def81be936ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room_Trim
+    second: {fileID: 2100000, guid: ee9e325381fa644dc83307c7c6391952, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room_Vinyl
+    second: {fileID: 2100000, guid: b6ad6dbebac00493f9285ea955520d7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room_Wall
+    second: {fileID: 2100000, guid: e9ee6be5edb0c4038876ba812cf30780, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room_Window
+    second: {fileID: 2100000, guid: fd2f7a76218d049f695b0e7d0388ebfa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shore_Rock
+    second: {fileID: 2100000, guid: 2485ad1cb51c247eca695e36e776579d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_Bark
+    second: {fileID: 2100000, guid: ebc63d8288e6541899e2f1ecd0183221, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tree_Leaves
+    second: {fileID: 2100000, guid: 0ef1be00009234f8090bd52be9d40e0f, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

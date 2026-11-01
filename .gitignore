@@ -1,0 +1,10 @@
+.DS_Store
+UnityProject/Library/
+UnityProject/Temp/
+UnityProject/Logs/
+UnityProject/obj/
+UnityProject/Build/
+UnityProject/Builds/
+UnityProject/UserSettings/
+release-assets/
+*.log

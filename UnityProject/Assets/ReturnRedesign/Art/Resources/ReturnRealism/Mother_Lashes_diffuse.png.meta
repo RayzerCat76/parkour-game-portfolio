@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 451f4c487e7ff4c798a8e10a14ef46af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6527954314659704330
+    second: Mother_Lashes_diffuse_0
+  - first:
+      213: 4544217476638324608
+    second: Mother_Lashes_diffuse_1
+  - first:
+      213: -2153154303990190654
+    second: Mother_Lashes_diffuse_2
+  - first:
+      213: -545557622650888053
+    second: Mother_Lashes_diffuse_3
+  - first:
+      213: -4343341034147033656
+    second: Mother_Lashes_diffuse_4
+  - first:
+      213: 7312870695630445541
+    second: Mother_Lashes_diffuse_5
+  - first:
+      213: -4453772477178371800
+    second: Mother_Lashes_diffuse_6
+  - first:
+      213: 6894923878591976280
+    second: Mother_Lashes_diffuse_7
+  - first:
+      213: 6901063105482606570
+    second: Mother_Lashes_diffuse_8
+  - first:
+      213: 4843863392189872252
+    second: Mother_Lashes_diffuse_9
+  - first:
+      213: -1540310313240124736
+    second: Mother_Lashes_diffuse_10
+  - first:
+      213: 7176341442058707004
+    second: Mother_Lashes_diffuse_11
+  - first:
+      213: -1763082214412054749
+    second: Mother_Lashes_diffuse_12
+  - first:
+      213: 7866923271326430150
+    second: Mother_Lashes_diffuse_13
+  - first:
+      213: 1188104005057383737
+    second: Mother_Lashes_diffuse_14
+  - first:
+      213: -5071155293293652163
+    second: Mother_Lashes_diffuse_15
+  - first:
+      213: -2444227731685295738
+    second: Mother_Lashes_diffuse_16
+  - first:
+      213: 299028360902596399
+    second: Mother_Lashes_diffuse_17
+  - first:
+      213: 4900989673045857955
+    second: Mother_Lashes_diffuse_18
+  - first:
+      213: -4024491742618578390
+    second: Mother_Lashes_diffuse_19
+  - first:
+      213: 5026818557870507219
+    second: Mother_Lashes_diffuse_20
+  - first:
+      213: 7811657806178680095
+    second: Mother_Lashes_diffuse_21
+  - first:
+      213: 8640127670358610834
+    second: Mother_Lashes_diffuse_22
+  - first:
+      213: -7671182346917019602
+    second: Mother_Lashes_diffuse_23
+  - first:
+      213: 3321990279633666695
+    second: Mother_Lashes_diffuse_24
+  - first:
+      213: -1655269542045472429
+    second: Mother_Lashes_diffuse_25
+  - first:
+      213: 7130140593602252760
+    second: Mother_Lashes_diffuse_26
+  - first:
+      213: -2291492009955820522
+    second: Mother_Lashes_diffuse_27
+  - first:
+      213: -4989493134211734916
+    second: Mother_Lashes_diffuse_28
+  - first:
+      213: -1031208557158182086
+    second: Mother_Lashes_diffuse_29
+  - first:
+      213: -8286790551102786328
+    second: Mother_Lashes_diffuse_30
+  - first:
+      213: 6815743974915835424
+    second: Mother_Lashes_diffuse_31
+  - first:
+      213: 1021471222231028227
+    second: Mother_Lashes_diffuse_32
+  - first:
+      213: 9122760570795132903
+    second: Mother_Lashes_diffuse_33
+  - first:
+      213: -4926587484701798131
+    second: Mother_Lashes_diffuse_34
+  - first:
+      213: 5341213027332846223
+    second: Mother_Lashes_diffuse_35
+  - first:
+      213: -4100353952965109549
+    second: Mother_Lashes_diffuse_36
+  - first:
+      213: -3663537090745499693
+    second: Mother_Lashes_diffuse_37
+  - first:
+      213: -2376586278498853783
+    second: Mother_Lashes_diffuse_38
+  - first:
+      213: -2156267878874581782
+    second: Mother_Lashes_diffuse_39
+  - first:
+      213: -4893747861626707750
+    second: Mother_Lashes_diffuse_40
+  - first:
+      213: -4456929519435354560
+    second: Mother_Lashes_diffuse_41
+  - first:
+      213: -2747796483760055084
+    second: Mother_Lashes_diffuse_42
+  - first:
+      213: -7639753159166634461
+    second: Mother_Lashes_diffuse_43
+  - first:
+      213: 1418219494137196143
+    second: Mother_Lashes_diffuse_44
+  - first:
+      213: -216962456481813715
+    second: Mother_Lashes_diffuse_45
+  - first:
+      213: 7517754669736851557
+    second: Mother_Lashes_diffuse_46
+  - first:
+      213: -5630036491781082796
+    second: Mother_Lashes_diffuse_47
+  - first:
+      213: -4271571780732136494
+    second: Mother_Lashes_diffuse_48
+  - first:
+      213: -6625347567838406521
+    second: Mother_Lashes_diffuse_49
+  - first:
+      213: -8388945124967673426
+    second: Mother_Lashes_diffuse_50
+  - first:
+      213: -6447105097068043121
+    second: Mother_Lashes_diffuse_51
+  - first:
+      213: 1697385247872526972
+    second: Mother_Lashes_diffuse_52
+  - first:
+      213: -1855917243099752986
+    second: Mother_Lashes_diffuse_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.35
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 8
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 405
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f1dabc232c0865a0800000000000000
+      internalID: -6527954314659704330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 406
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087362df7bd401f30800000000000000
+      internalID: 4544217476638324608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 405
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cdaf0481957e12e0800000000000000
+      internalID: -2153154303990190654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 407
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8023619b3acd68f0800000000000000
+      internalID: -545557622650888053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 420
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cdc949675a59b3c0800000000000000
+      internalID: -4343341034147033656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 423
+        width: 19
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb9a6507298c7560800000000000000
+      internalID: 7312870695630445541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 425
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8212f5377850132c0800000000000000
+      internalID: -4453772477178371800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 425
+        width: 14
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85355d89cb0bfaf50800000000000000
+      internalID: 6894923878591976280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 407
+        width: 41
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae748deb45085cf50800000000000000
+      internalID: 6901063105482606570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 410
+        width: 6
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78feff571cd83340800000000000000
+      internalID: 4843863392189872252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 394
+        width: 29
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2a3775ee7bf9ae0800000000000000
+      internalID: -1540310313240124736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 373
+        width: 31
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30e2d8058c779360800000000000000
+      internalID: 7176341442058707004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 351
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f092431164887e0800000000000000
+      internalID: -1763082214412054749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 348
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c37aa6d80dec2d60800000000000000
+      internalID: 7866923271326430150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 263
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d0aa93c4efc7010800000000000000
+      internalID: 1188104005057383737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 264
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37d36ef023af99b0800000000000000
+      internalID: -5071155293293652163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 263
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6893dbef3db541ed0800000000000000
+      internalID: -2444227731685295738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 265
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27dd5db5bc562400800000000000000
+      internalID: 299028360902596399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 278
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a691cd1420d30440800000000000000
+      internalID: 4900989673045857955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 281
+        width: 19
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a221abf25122628c0800000000000000
+      internalID: -4024491742618578390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 283
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4863c58d8d2c540800000000000000
+      internalID: 5026818557870507219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 283
+        width: 14
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1dff240365986c60800000000000000
+      internalID: 7811657806178680095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 265
+        width: 41
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2939fbdb656e7e770800000000000000
+      internalID: 8640127670358610834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 268
+        width: 6
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2083c49c4c7a8590800000000000000
+      internalID: -7671182346917019602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 252
+        width: 29
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7828dd40f841a1e20800000000000000
+      internalID: 3321990279633666695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 231
+        width: 31
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3592bda1f1d4709e0800000000000000
+      internalID: -1655269542045472429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 209
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df4140c71953f260800000000000000
+      internalID: 7130140593602252760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 206
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cffe4682cf230e0800000000000000
+      internalID: -2291492009955820522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_28
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 151
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c722f0e0e62c1cab0800000000000000
+      internalID: -4989493134211734916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 146
+        width: 10
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a335e35e74960b1f0800000000000000
+      internalID: -1031208557158182086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 140
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4747926e76ffc80800000000000000
+      internalID: -8286790551102786328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_31
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 161
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0260ed8a803669e50800000000000000
+      internalID: 6815743974915835424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_32
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 132
+        width: 16
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3025d552aaefc2e00800000000000000
+      internalID: 1021471222231028227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_33
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 130
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e70f29976e8a9e70800000000000000
+      internalID: 9122760570795132903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 122
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01d67be8ce31abb0800000000000000
+      internalID: -4926587484701798131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_35
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 161
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f82fcdb03fccf1a40800000000000000
+      internalID: 5341213027332846223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_36
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 128
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8552cedcd9817c0800000000000000
+      internalID: -4100353952965109549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_37
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 137
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3df75ac1d60882dc0800000000000000
+      internalID: -3663537090745499693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_38
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 186
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c12041f5ba40fd0800000000000000
+      internalID: -2376586278498853783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_39
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 122
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4781fd9c56312e0800000000000000
+      internalID: -2156267878874581782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_40
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 130
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0a96f7f3ae51cb0800000000000000
+      internalID: -4893747861626707750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_41
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 30
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04e6a15473ec522c0800000000000000
+      internalID: -4456929519435354560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_42
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 79
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc1a6e08adddd9d0800000000000000
+      internalID: -2747796483760055084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 44
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32654389af42af590800000000000000
+      internalID: -7639753159166634461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_44
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 39
+        width: 10
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ee499ad178ea310800000000000000
+      internalID: 1418219494137196143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 33
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2b2ecb9bc13dfcf0800000000000000
+      internalID: -216962456481813715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_46
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 54
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568f2369a0e645860800000000000000
+      internalID: 7517754669736851557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 25
+        width: 16
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451f6e2d3a71ed1b0800000000000000
+      internalID: -5630036491781082796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 23
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3d0e0e81458b4c0800000000000000
+      internalID: -4271571780732136494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_49
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 15
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7885e795d790e04a0800000000000000
+      internalID: -6625347567838406521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_50
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 23
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea19e0afada749b80800000000000000
+      internalID: -8388945124967673426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_51
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 15
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8426ab82184786a0800000000000000
+      internalID: -6447105097068043121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_52
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 54
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7a2e6ac3e25e8710800000000000000
+      internalID: 1697385247872526972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Lashes_diffuse_53
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 21
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e55488b9157e36e0800000000000000
+      internalID: -1855917243099752986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mother_Lashes_diffuse_0: -6527954314659704330
+      Mother_Lashes_diffuse_1: 4544217476638324608
+      Mother_Lashes_diffuse_10: -1540310313240124736
+      Mother_Lashes_diffuse_11: 7176341442058707004
+      Mother_Lashes_diffuse_12: -1763082214412054749
+      Mother_Lashes_diffuse_13: 7866923271326430150
+      Mother_Lashes_diffuse_14: 1188104005057383737
+      Mother_Lashes_diffuse_15: -5071155293293652163
+      Mother_Lashes_diffuse_16: -2444227731685295738
+      Mother_Lashes_diffuse_17: 299028360902596399
+      Mother_Lashes_diffuse_18: 4900989673045857955
+      Mother_Lashes_diffuse_19: -4024491742618578390
+      Mother_Lashes_diffuse_2: -2153154303990190654
+      Mother_Lashes_diffuse_20: 5026818557870507219
+      Mother_Lashes_diffuse_21: 7811657806178680095
+      Mother_Lashes_diffuse_22: 8640127670358610834
+      Mother_Lashes_diffuse_23: -7671182346917019602
+      Mother_Lashes_diffuse_24: 3321990279633666695
+      Mother_Lashes_diffuse_25: -1655269542045472429
+      Mother_Lashes_diffuse_26: 7130140593602252760
+      Mother_Lashes_diffuse_27: -2291492009955820522
+      Mother_Lashes_diffuse_28: -4989493134211734916
+      Mother_Lashes_diffuse_29: -1031208557158182086
+      Mother_Lashes_diffuse_3: -545557622650888053
+      Mother_Lashes_diffuse_30: -8286790551102786328
+      Mother_Lashes_diffuse_31: 6815743974915835424
+      Mother_Lashes_diffuse_32: 1021471222231028227
+      Mother_Lashes_diffuse_33: 9122760570795132903
+      Mother_Lashes_diffuse_34: -4926587484701798131
+      Mother_Lashes_diffuse_35: 5341213027332846223
+      Mother_Lashes_diffuse_36: -4100353952965109549
+      Mother_Lashes_diffuse_37: -3663537090745499693
+      Mother_Lashes_diffuse_38: -2376586278498853783
+      Mother_Lashes_diffuse_39: -2156267878874581782
+      Mother_Lashes_diffuse_4: -4343341034147033656
+      Mother_Lashes_diffuse_40: -4893747861626707750
+      Mother_Lashes_diffuse_41: -4456929519435354560
+      Mother_Lashes_diffuse_42: -2747796483760055084
+      Mother_Lashes_diffuse_43: -7639753159166634461
+      Mother_Lashes_diffuse_44: 1418219494137196143
+      Mother_Lashes_diffuse_45: -216962456481813715
+      Mother_Lashes_diffuse_46: 7517754669736851557
+      Mother_Lashes_diffuse_47: -5630036491781082796
+      Mother_Lashes_diffuse_48: -4271571780732136494
+      Mother_Lashes_diffuse_49: -6625347567838406521
+      Mother_Lashes_diffuse_5: 7312870695630445541
+      Mother_Lashes_diffuse_50: -8388945124967673426
+      Mother_Lashes_diffuse_51: -6447105097068043121
+      Mother_Lashes_diffuse_52: 1697385247872526972
+      Mother_Lashes_diffuse_53: -1855917243099752986
+      Mother_Lashes_diffuse_6: -4453772477178371800
+      Mother_Lashes_diffuse_7: 6894923878591976280
+      Mother_Lashes_diffuse_8: 6901063105482606570
+      Mother_Lashes_diffuse_9: 4843863392189872252
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

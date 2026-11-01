@@ -1,0 +1,1014 @@
+fileFormatVersion: 2
+guid: abfac84f6717b4239b8f8cd9eff8339e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -623466369700213542
+    second: Nurse_Hair_diffuse_0
+  - first:
+      213: -3805920389384040825
+    second: Nurse_Hair_diffuse_1
+  - first:
+      213: -3808765627456393428
+    second: Nurse_Hair_diffuse_2
+  - first:
+      213: -3526578366879176559
+    second: Nurse_Hair_diffuse_3
+  - first:
+      213: -3143380470844480450
+    second: Nurse_Hair_diffuse_4
+  - first:
+      213: -8000461225090607289
+    second: Nurse_Hair_diffuse_5
+  - first:
+      213: -8587914458527414895
+    second: Nurse_Hair_diffuse_6
+  - first:
+      213: 5969207898854607813
+    second: Nurse_Hair_diffuse_7
+  - first:
+      213: 4570130243857078830
+    second: Nurse_Hair_diffuse_8
+  - first:
+      213: -1931524615279100060
+    second: Nurse_Hair_diffuse_9
+  - first:
+      213: -6990531456516144404
+    second: Nurse_Hair_diffuse_10
+  - first:
+      213: -7982484951564094288
+    second: Nurse_Hair_diffuse_11
+  - first:
+      213: -2422941261705477108
+    second: Nurse_Hair_diffuse_12
+  - first:
+      213: 6189372987366280289
+    second: Nurse_Hair_diffuse_13
+  - first:
+      213: -2870121873452223910
+    second: Nurse_Hair_diffuse_14
+  - first:
+      213: -3800213077075519064
+    second: Nurse_Hair_diffuse_15
+  - first:
+      213: 492292285379575127
+    second: Nurse_Hair_diffuse_16
+  - first:
+      213: 2675412716857264490
+    second: Nurse_Hair_diffuse_17
+  - first:
+      213: 4926489372128627913
+    second: Nurse_Hair_diffuse_18
+  - first:
+      213: -663607880376070397
+    second: Nurse_Hair_diffuse_19
+  - first:
+      213: -2177123503182260936
+    second: Nurse_Hair_diffuse_20
+  - first:
+      213: -880933720921787879
+    second: Nurse_Hair_diffuse_21
+  - first:
+      213: -3774451392692559930
+    second: Nurse_Hair_diffuse_22
+  - first:
+      213: -898521281017418637
+    second: Nurse_Hair_diffuse_23
+  - first:
+      213: -1942499711719012463
+    second: Nurse_Hair_diffuse_24
+  - first:
+      213: -1962257220176719302
+    second: Nurse_Hair_diffuse_25
+  - first:
+      213: 7065138962846536758
+    second: Nurse_Hair_diffuse_26
+  - first:
+      213: 7540133079846137735
+    second: Nurse_Hair_diffuse_27
+  - first:
+      213: 1278644408620112267
+    second: Nurse_Hair_diffuse_28
+  - first:
+      213: 826977740593311185
+    second: Nurse_Hair_diffuse_29
+  - first:
+      213: 1532133141497557290
+    second: Nurse_Hair_diffuse_30
+  - first:
+      213: 8926111812101090514
+    second: Nurse_Hair_diffuse_31
+  - first:
+      213: -7627846139531803006
+    second: Nurse_Hair_diffuse_32
+  - first:
+      213: 698358734713010977
+    second: Nurse_Hair_diffuse_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 1
+    alphaTestReferenceValue: 0.35
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 8
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1957
+        width: 782
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adccd98d3a00957f0800000000000000
+      internalID: -623466369700213542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_1
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 1799
+        width: 853
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78e095b0297ae2bc0800000000000000
+      internalID: -3805920389384040825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_2
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 2006
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2f6ebe67db842bc0800000000000000
+      internalID: -3808765627456393428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_3
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 2007
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198e691f8a31f0fc0800000000000000
+      internalID: -3526578366879176559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_4
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2007
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e342a69bd187064d0800000000000000
+      internalID: -3143380470844480450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_5
+      rect:
+        serializedVersion: 2
+        x: 1844
+        y: 2006
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 747103f67e6a8f090800000000000000
+      internalID: -8000461225090607289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_6
+      rect:
+        serializedVersion: 2
+        x: 1851
+        y: 2007
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195480afc4991d880800000000000000
+      internalID: -8587914458527414895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_7
+      rect:
+        serializedVersion: 2
+        x: 1873
+        y: 2006
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cb4fa135f2e6d250800000000000000
+      internalID: 5969207898854607813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_8
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 2007
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ade524e3d5c6f30800000000000000
+      internalID: 4570130243857078830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_9
+      rect:
+        serializedVersion: 2
+        x: 1901
+        y: 2006
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fbd579898d135e0800000000000000
+      internalID: -1931524615279100060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_10
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 2007
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2492f7da4acfe90800000000000000
+      internalID: -6990531456516144404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_11
+      rect:
+        serializedVersion: 2
+        x: 1930
+        y: 2006
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b4fe15ca34883190800000000000000
+      internalID: -7982484951564094288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_12
+      rect:
+        serializedVersion: 2
+        x: 1945
+        y: 2007
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c04886082cbff5ed0800000000000000
+      internalID: -2422941261705477108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_13
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 2006
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c8d5670f115e550800000000000000
+      internalID: 6189372987366280289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_14
+      rect:
+        serializedVersion: 2
+        x: 1981
+        y: 2007
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a523dc6dc574b28d0800000000000000
+      internalID: -2870121873452223910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_15
+      rect:
+        serializedVersion: 2
+        x: 1996
+        y: 2006
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a99e1e375ee24bc0800000000000000
+      internalID: -3800213077075519064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_16
+      rect:
+        serializedVersion: 2
+        x: 2002
+        y: 2006
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75df6bba939f4d600800000000000000
+      internalID: 492292285379575127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_17
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 2007
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6907d7e0b9f02520800000000000000
+      internalID: 2675412716857264490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_18
+      rect:
+        serializedVersion: 2
+        x: 2026
+        y: 2001
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ccc6777bf76e5440800000000000000
+      internalID: 4926489372128627913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_19
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 399
+        height: 1004
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fc80416246ac6f0800000000000000
+      internalID: -663607880376070397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_20
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 447
+        width: 1957
+        height: 1513
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835daa075bd49c1e0800000000000000
+      internalID: -2177123503182260936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_21
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 91
+        width: 415
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9123bcdb27b46c3f0800000000000000
+      internalID: -880933720921787879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_22
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 20
+        width: 208
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfd49cc4747e9bc0800000000000000
+      internalID: -3774451392692559930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_23
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 20
+        width: 182
+        height: 1028
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ce3ddc7afc783f0800000000000000
+      internalID: -898521281017418637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_24
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 44
+        width: 350
+        height: 651
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19780b2ddcada05e0800000000000000
+      internalID: -1942499711719012463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_25
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 52
+        width: 117
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a32db696479a4c4e0800000000000000
+      internalID: -1962257220176719302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_26
+      rect:
+        serializedVersion: 2
+        x: 1740
+        y: 70
+        width: 159
+        height: 909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6345d39347a6c0260800000000000000
+      internalID: 7065138962846536758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_27
+      rect:
+        serializedVersion: 2
+        x: 1868
+        y: 66
+        width: 173
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78fa667361fe3a860800000000000000
+      internalID: 7540133079846137735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_28
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 405
+        width: 39
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8957d9a058aeb110800000000000000
+      internalID: 1278644408620112267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_29
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 366
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd2831afd30a7b00800000000000000
+      internalID: 826977740593311185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_30
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 266
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21b09f79fa334510800000000000000
+      internalID: 1532133141497557290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_31
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 209
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc24b9866befdb70800000000000000
+      internalID: 8926111812101090514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_32
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 53
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2864fd3a952742690800000000000000
+      internalID: -7627846139531803006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Hair_diffuse_33
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 57
+        width: 38
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12b3c54b19111b900800000000000000
+      internalID: 698358734713010977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nurse_Hair_diffuse_0: -623466369700213542
+      Nurse_Hair_diffuse_1: -3805920389384040825
+      Nurse_Hair_diffuse_10: -6990531456516144404
+      Nurse_Hair_diffuse_11: -7982484951564094288
+      Nurse_Hair_diffuse_12: -2422941261705477108
+      Nurse_Hair_diffuse_13: 6189372987366280289
+      Nurse_Hair_diffuse_14: -2870121873452223910
+      Nurse_Hair_diffuse_15: -3800213077075519064
+      Nurse_Hair_diffuse_16: 492292285379575127
+      Nurse_Hair_diffuse_17: 2675412716857264490
+      Nurse_Hair_diffuse_18: 4926489372128627913
+      Nurse_Hair_diffuse_19: -663607880376070397
+      Nurse_Hair_diffuse_2: -3808765627456393428
+      Nurse_Hair_diffuse_20: -2177123503182260936
+      Nurse_Hair_diffuse_21: -880933720921787879
+      Nurse_Hair_diffuse_22: -3774451392692559930
+      Nurse_Hair_diffuse_23: -898521281017418637
+      Nurse_Hair_diffuse_24: -1942499711719012463
+      Nurse_Hair_diffuse_25: -1962257220176719302
+      Nurse_Hair_diffuse_26: 7065138962846536758
+      Nurse_Hair_diffuse_27: 7540133079846137735
+      Nurse_Hair_diffuse_28: 1278644408620112267
+      Nurse_Hair_diffuse_29: 826977740593311185
+      Nurse_Hair_diffuse_3: -3526578366879176559
+      Nurse_Hair_diffuse_30: 1532133141497557290
+      Nurse_Hair_diffuse_31: 8926111812101090514
+      Nurse_Hair_diffuse_32: -7627846139531803006
+      Nurse_Hair_diffuse_33: 698358734713010977
+      Nurse_Hair_diffuse_4: -3143380470844480450
+      Nurse_Hair_diffuse_5: -8000461225090607289
+      Nurse_Hair_diffuse_6: -8587914458527414895
+      Nurse_Hair_diffuse_7: 5969207898854607813
+      Nurse_Hair_diffuse_8: 4570130243857078830
+      Nurse_Hair_diffuse_9: -1931524615279100060
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

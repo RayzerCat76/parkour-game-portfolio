@@ -1,0 +1,13 @@
+{
+  "name": "Phase01.Demo0.PlayModeTests",
+  "rootNamespace": "Phase01.Demo0.Tests",
+  "references": [
+    "Phase01.Demo0",
+    "Phase01.MovementSandbox",
+    "ProjectReturn.Core"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": true
+}

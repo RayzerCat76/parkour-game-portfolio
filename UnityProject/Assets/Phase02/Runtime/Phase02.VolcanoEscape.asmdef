@@ -1,0 +1,10 @@
+{
+  "name": "Phase02.VolcanoEscape",
+  "rootNamespace": "Phase02.VolcanoEscape",
+  "references": [
+    "ProjectReturn.Core",
+    "Phase01.MovementSandbox",
+    "Unity.InputSystem"
+  ],
+  "autoReferenced": true
+}

@@ -1,0 +1,8 @@
+{
+  "name": "Phase01.MovementSandbox",
+  "rootNamespace": "Phase01.MovementSandbox",
+  "references": [
+    "Unity.InputSystem"
+  ],
+  "autoReferenced": true
+}

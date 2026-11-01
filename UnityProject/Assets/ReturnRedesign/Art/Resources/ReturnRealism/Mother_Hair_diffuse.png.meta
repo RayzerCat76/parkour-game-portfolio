@@ -1,0 +1,494 @@
+fileFormatVersion: 2
+guid: eedf5f93c269340249763b383c6b9c03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1147737587480031794
+    second: Mother_Hair_diffuse_0
+  - first:
+      213: 5050743115657111495
+    second: Mother_Hair_diffuse_1
+  - first:
+      213: -5994291114357142399
+    second: Mother_Hair_diffuse_2
+  - first:
+      213: 2906069109587548114
+    second: Mother_Hair_diffuse_3
+  - first:
+      213: 4004064476496906232
+    second: Mother_Hair_diffuse_4
+  - first:
+      213: 7432740192789963435
+    second: Mother_Hair_diffuse_5
+  - first:
+      213: -7575255161196058984
+    second: Mother_Hair_diffuse_6
+  - first:
+      213: 2823657143255162530
+    second: Mother_Hair_diffuse_7
+  - first:
+      213: -649768964478203811
+    second: Mother_Hair_diffuse_8
+  - first:
+      213: -5141838617640745388
+    second: Mother_Hair_diffuse_9
+  - first:
+      213: 3442872190158480188
+    second: Mother_Hair_diffuse_10
+  - first:
+      213: -7568510768266064544
+    second: Mother_Hair_diffuse_11
+  - first:
+      213: 6377307864873042886
+    second: Mother_Hair_diffuse_12
+  - first:
+      213: -1595929370815621277
+    second: Mother_Hair_diffuse_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 1
+    alphaTestReferenceValue: 0.35
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 8
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mother_Hair_diffuse_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 942
+        width: 513
+        height: 1106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2327c1d31459def00800000000000000
+      internalID: 1147737587480031794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Hair_diffuse_1
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1090
+        width: 370
+        height: 690
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7ed7c8a18d71640800000000000000
+      internalID: 5050743115657111495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Hair_diffuse_2
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 1169
+        width: 216
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c46789dffffcca0800000000000000
+      internalID: -5994291114357142399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Hair_diffuse_3
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1342
+        width: 129
+        height: 685
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d793b9457e645820800000000000000
+      internalID: 2906069109587548114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Hair_diffuse_4
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 1471
+        width: 126
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f7cb5b4d6b419730800000000000000
+      internalID: 4004064476496906232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Hair_diffuse_5
+      rect:
+        serializedVersion: 2
+        x: 1605
+        y: 1651
+        width: 90
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2a30333d5662760800000000000000
+      internalID: 7432740192789963435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Hair_diffuse_6
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 1171
+        width: 156
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896e6f9f0994fd690800000000000000
+      internalID: -7575255161196058984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Hair_diffuse_7
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 1166
+        width: 119
+        height: 842
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aed73f1635af2720800000000000000
+      internalID: 2823657143255162530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Hair_diffuse_8
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 0
+        width: 582
+        height: 1111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d580436c19e8bf6f0800000000000000
+      internalID: -649768964478203811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Hair_diffuse_9
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 0
+        width: 469
+        height: 1289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4564327150584a8b0800000000000000
+      internalID: -5141838617640745388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Hair_diffuse_10
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1097
+        width: 88
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33a77d040a87cf20800000000000000
+      internalID: 3442872190158480188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Hair_diffuse_11
+      rect:
+        serializedVersion: 2
+        x: 1754
+        y: 214
+        width: 174
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d48c25e8f37f690800000000000000
+      internalID: -7568510768266064544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Hair_diffuse_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 684
+        height: 946
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c30015f6bfb08850800000000000000
+      internalID: 6377307864873042886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mother_Hair_diffuse_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 936
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3671ced51be1ad9e0800000000000000
+      internalID: -1595929370815621277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mother_Hair_diffuse_0: 1147737587480031794
+      Mother_Hair_diffuse_1: 5050743115657111495
+      Mother_Hair_diffuse_10: 3442872190158480188
+      Mother_Hair_diffuse_11: -7568510768266064544
+      Mother_Hair_diffuse_12: 6377307864873042886
+      Mother_Hair_diffuse_13: -1595929370815621277
+      Mother_Hair_diffuse_2: -5994291114357142399
+      Mother_Hair_diffuse_3: 2906069109587548114
+      Mother_Hair_diffuse_4: 4004064476496906232
+      Mother_Hair_diffuse_5: 7432740192789963435
+      Mother_Hair_diffuse_6: -7575255161196058984
+      Mother_Hair_diffuse_7: 2823657143255162530
+      Mother_Hair_diffuse_8: -649768964478203811
+      Mother_Hair_diffuse_9: -5141838617640745388
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

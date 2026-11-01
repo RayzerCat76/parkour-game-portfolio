@@ -1,0 +1,14 @@
+{
+  "name": "Phase01.Demo0.Editor",
+  "rootNamespace": "Phase01.Demo0.Editor",
+  "references": [
+    "Phase01.Demo0",
+    "Phase01.MovementSandbox",
+    "Unity.RenderPipelines.Core.Runtime",
+    "Unity.RenderPipelines.Universal.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": false
+}

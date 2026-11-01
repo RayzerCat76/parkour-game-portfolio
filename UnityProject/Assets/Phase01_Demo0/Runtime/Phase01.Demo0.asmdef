@@ -1,0 +1,11 @@
+{
+  "name": "Phase01.Demo0",
+  "rootNamespace": "Phase01.Demo0",
+  "references": [
+    "Unity.InputSystem",
+    "Phase01.MovementSandbox",
+    "Unity.RenderPipelines.Core.Runtime",
+    "Unity.RenderPipelines.Universal.Runtime"
+  ],
+  "autoReferenced": true
+}

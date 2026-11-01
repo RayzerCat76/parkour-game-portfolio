@@ -1,0 +1,9 @@
+{
+  "name": "ProjectReturn.Core",
+  "rootNamespace": "ProjectReturn.Core",
+  "references": [
+    "Phase01.Demo0",
+    "Unity.InputSystem"
+  ],
+  "autoReferenced": true
+}

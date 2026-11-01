@@ -1,0 +1,11 @@
+{
+  "name": "ProjectReturn.TestInfrastructure.Editor",
+  "rootNamespace": "ProjectReturn.TestInfrastructure",
+  "references": [
+    "UnityEditor.TestRunner"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

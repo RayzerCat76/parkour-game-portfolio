@@ -1,0 +1,16 @@
+{
+  "name": "Phase01.MovementSandbox.EditorCaptureTests",
+  "rootNamespace": "Phase01.MovementSandbox.Tests",
+  "references": [
+    "Phase01.MovementSandbox",
+    "Phase01.Demo0",
+    "UnityEditor.MediaModule"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": true
+}

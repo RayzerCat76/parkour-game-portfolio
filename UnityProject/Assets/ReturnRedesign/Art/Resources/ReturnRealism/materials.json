@@ -1,0 +1,723 @@
+{
+  "materials": [
+    {
+      "name": "Dreamer_Skin",
+      "colour": [
+        1,
+        0.98,
+        0.95,
+        1
+      ],
+      "smoothness": 0.46,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "diffuse": "Dreamer_Skin_diffuse.png",
+      "hasDetail": true,
+      "detail": 0.025,
+      "skinDetail": 0.45,
+      "skinOiliness": 0.56
+    },
+    {
+      "name": "Dreamer_Clothes",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.12,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 3,
+      "diffuse": "Dreamer_Clothes_diffuse.png",
+      "normal": "Dreamer_Clothes_normal.png",
+      "ao": "Dreamer_Clothes_ao.png"
+    },
+    {
+      "name": "Dreamer_Hair",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.23,
+      "metallic": 0,
+      "alpha": true,
+      "channel": 0,
+      "diffuse": "Dreamer_Hair_diffuse.png"
+    },
+    {
+      "name": "Dreamer_Eyes",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.68,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "diffuse": "Dreamer_Eyes_diffuse.png"
+    },
+    {
+      "name": "Dreamer_Teeth",
+      "colour": [
+        0.75,
+        0.72,
+        0.65,
+        1
+      ],
+      "smoothness": 0.38,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0
+    },
+    {
+      "name": "Dreamer_Shoes",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.18,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "diffuse": "Dreamer_Shoes_diffuse.png",
+      "normal": "Dreamer_Shoes_normal.png"
+    },
+    {
+      "name": "Hospital_Paint",
+      "colour": [
+        0.76,
+        0.8,
+        0.79,
+        1
+      ],
+      "smoothness": 0.25,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "indirect": "Hospital_Indirect_Clean.exr",
+      "indirectStrength": 0.45
+    },
+    {
+      "name": "Hospital_Fabric",
+      "colour": [
+        0.63,
+        0.72,
+        0.7,
+        1
+      ],
+      "smoothness": 0.1,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "indirect": "Hospital_Indirect_Clean.exr",
+      "indirectStrength": 0.45
+    },
+    {
+      "name": "Hospital_Chrome",
+      "colour": [
+        0.58,
+        0.64,
+        0.65,
+        1
+      ],
+      "smoothness": 0.8,
+      "metallic": 0.88,
+      "alpha": false,
+      "channel": 0,
+      "indirect": "Hospital_Indirect_Clean.exr",
+      "indirectStrength": 0.45
+    },
+    {
+      "name": "Hospital_Plastic",
+      "colour": [
+        0.77,
+        0.81,
+        0.79,
+        1
+      ],
+      "smoothness": 0.42,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "indirect": "Hospital_Indirect_Clean.exr",
+      "indirectStrength": 0.45
+    },
+    {
+      "name": "Hospital_Rubber",
+      "colour": [
+        0.025,
+        0.035,
+        0.038,
+        1
+      ],
+      "smoothness": 0.16,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "indirect": "Hospital_Indirect_Clean.exr",
+      "indirectStrength": 0.45
+    },
+    {
+      "name": "Hospital_Wood",
+      "colour": [
+        0.5,
+        0.31,
+        0.17,
+        1
+      ],
+      "smoothness": 0.35,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "indirect": "Hospital_Indirect_Clean.exr",
+      "indirectStrength": 0.45
+    },
+    {
+      "name": "Fruit_Skin",
+      "colour": [
+        0.82,
+        0.88,
+        1,
+        1
+      ],
+      "smoothness": 0.34,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "diffuse": "Fruit_Skin_diffuse.png",
+      "relief": 0.35
+    },
+    {
+      "name": "Fruit_Stem",
+      "colour": [
+        0.18,
+        0.14,
+        0.085,
+        1
+      ],
+      "smoothness": 0.17,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0
+    },
+    {
+      "name": "Fruit_Blossom",
+      "colour": [
+        0.19,
+        0.17,
+        0.12,
+        1
+      ],
+      "smoothness": 0.09,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0
+    },
+    {
+      "name": "Room_Wall",
+      "colour": [
+        0.82,
+        0.825,
+        0.8,
+        1
+      ],
+      "smoothness": 0.12,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "indirect": "Hospital_Indirect_Clean.exr",
+      "indirectStrength": 0.45
+    },
+    {
+      "name": "Room_Ceiling",
+      "colour": [
+        0.83,
+        0.85,
+        0.84,
+        1
+      ],
+      "smoothness": 0.08,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "indirect": "Hospital_Indirect_Clean.exr",
+      "indirectStrength": 0.45
+    },
+    {
+      "name": "Room_Vinyl",
+      "colour": [
+        0.42,
+        0.49,
+        0.5,
+        1
+      ],
+      "smoothness": 0.33,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "indirect": "Hospital_Indirect_Clean.exr",
+      "indirectStrength": 0.45
+    },
+    {
+      "name": "Room_Seams",
+      "colour": [
+        0.27,
+        0.31,
+        0.32,
+        1
+      ],
+      "smoothness": 0.12,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "indirect": "Hospital_Indirect_Clean.exr",
+      "indirectStrength": 0.45
+    },
+    {
+      "name": "Room_Trim",
+      "colour": [
+        0.68,
+        0.73,
+        0.74,
+        1
+      ],
+      "smoothness": 0.38,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "indirect": "Hospital_Indirect_Clean.exr",
+      "indirectStrength": 0.45
+    },
+    {
+      "name": "Room_Window",
+      "colour": [
+        0.8,
+        0.88,
+        0.93,
+        1
+      ],
+      "smoothness": 0.7,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "emission": [
+        0.3,
+        0.36,
+        0.42,
+        1
+      ],
+      "indirect": "Hospital_Indirect_Clean.exr",
+      "indirectStrength": 0.45
+    },
+    {
+      "name": "Room_Aluminium",
+      "colour": [
+        0.55,
+        0.6,
+        0.61,
+        1
+      ],
+      "smoothness": 0.72,
+      "metallic": 0.85,
+      "alpha": false,
+      "channel": 0,
+      "indirect": "Hospital_Indirect_Clean.exr",
+      "indirectStrength": 0.45
+    },
+    {
+      "name": "Room_Diffuser",
+      "colour": [
+        0.97,
+        0.98,
+        0.96,
+        1
+      ],
+      "smoothness": 0.16,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "emission": [
+        0.9,
+        0.94,
+        0.92,
+        1
+      ],
+      "indirect": "Hospital_Indirect_Clean.exr",
+      "indirectStrength": 0.45
+    },
+    {
+      "name": "Room_Clock",
+      "colour": [
+        0.085,
+        0.1,
+        0.11,
+        1
+      ],
+      "smoothness": 0.25,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "indirect": "Hospital_Indirect_Clean.exr",
+      "indirectStrength": 0.45
+    },
+    {
+      "name": "Leaf_Living",
+      "colour": [
+        0.85,
+        0.95,
+        0.75,
+        1
+      ],
+      "smoothness": 0.56,
+      "metallic": 0,
+      "channel": 0,
+      "alpha": false,
+      "diffuse": "Leaf_Living_diffuse.png",
+      "transmission": 0.35,
+      "relief": 0.6,
+      "wind": 0.03,
+      "windMode": 1
+    },
+    {
+      "name": "Island_Ground",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.12,
+      "metallic": 0,
+      "channel": 1,
+      "alpha": false,
+      "diffuse": "Island_Ground_diffuse.jpg",
+      "normal": "Island_Ground_normal.jpg"
+    },
+    {
+      "name": "Shore_Rock",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.2,
+      "metallic": 0,
+      "channel": 1,
+      "alpha": false,
+      "diffuse": "Shore_Rock_Diffuse.jpg",
+      "normal": "Shore_Rock_Normal.png",
+      "roughness": "Shore_Rock_Roughness.png",
+      "transmission": 0,
+      "wind": 0,
+      "windMode": 0,
+      "hasDetail": true,
+      "detail": 0.025
+    },
+    {
+      "name": "Island_Grass",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.2,
+      "metallic": 0,
+      "channel": 3,
+      "alpha": true,
+      "diffuse": "Island_Grass_ColourOpacity.png",
+      "normal": "Island_Grass_Normal.png",
+      "roughness": "Island_Grass_Roughness.png",
+      "transmission": 0.55,
+      "wind": 0.022,
+      "windMode": 2,
+      "hasDetail": true,
+      "detail": 0.025,
+      "foliageNormalUp": 0.6
+    },
+    {
+      "name": "Mother_Skin",
+      "colour": [
+        1,
+        0.98,
+        0.95,
+        1
+      ],
+      "smoothness": 0.44,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "diffuse": "Mother_Skin_diffuse.png",
+      "skinDetail": 0.65,
+      "skinOiliness": 0.32,
+      "hasDetail": true,
+      "detail": 0.025
+    },
+    {
+      "name": "Mother_Clothes",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.12,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "diffuse": "Mother_Clothes_diffuse.png",
+      "normal": "Mother_Clothes_normal.png",
+      "ao": "Mother_Clothes_ao.png"
+    },
+    {
+      "name": "Mother_Hair",
+      "colour": [
+        0.07,
+        0.043,
+        0.027,
+        1
+      ],
+      "smoothness": 0.23,
+      "metallic": 0,
+      "alpha": true,
+      "channel": 0,
+      "diffuse": "Mother_Hair_diffuse.png",
+      "hasDetail": true,
+      "detail": 0.04
+    },
+    {
+      "name": "Mother_Eyes",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.68,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "diffuse": "Mother_Eyes_diffuse.png"
+    },
+    {
+      "name": "Mother_Teeth",
+      "colour": [
+        0.75,
+        0.72,
+        0.65,
+        1
+      ],
+      "smoothness": 0.38,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0
+    },
+    {
+      "name": "Mother_Brows",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.08,
+      "metallic": 0,
+      "alpha": true,
+      "channel": 0,
+      "diffuse": "Mother_Brows_diffuse.png",
+      "hasDetail": true,
+      "detail": 0
+    },
+    {
+      "name": "Mother_Lashes",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.08,
+      "metallic": 0,
+      "alpha": true,
+      "channel": 0,
+      "diffuse": "Mother_Lashes_diffuse.png",
+      "hasDetail": true,
+      "detail": 0
+    },
+    {
+      "name": "Mother_Shoes",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.18,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "diffuse": "Mother_Shoes_diffuse.png",
+      "normal": "Mother_Shoes_normal.png"
+    },
+    {
+      "name": "Nurse_Skin",
+      "colour": [
+        1,
+        0.98,
+        0.95,
+        1
+      ],
+      "smoothness": 0.47,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "diffuse": "Nurse_Skin_diffuse.png",
+      "skinDetail": 0.45,
+      "skinOiliness": 0.58,
+      "hasDetail": true,
+      "detail": 0.025
+    },
+    {
+      "name": "Nurse_Clothes",
+      "colour": [
+        0.16,
+        0.46,
+        0.51,
+        1
+      ],
+      "smoothness": 0.14,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0
+    },
+    {
+      "name": "Nurse_Hair",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.23,
+      "metallic": 0,
+      "alpha": true,
+      "channel": 0,
+      "diffuse": "Nurse_Hair_diffuse.png"
+    },
+    {
+      "name": "Nurse_Eyes",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.68,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "diffuse": "Nurse_Eyes_diffuse.png"
+    },
+    {
+      "name": "Nurse_Teeth",
+      "colour": [
+        0.75,
+        0.72,
+        0.65,
+        1
+      ],
+      "smoothness": 0.38,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0
+    },
+    {
+      "name": "Nurse_Brows",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.08,
+      "metallic": 0,
+      "alpha": true,
+      "channel": 0,
+      "diffuse": "Nurse_Brows_diffuse.png",
+      "hasDetail": true,
+      "detail": 0
+    },
+    {
+      "name": "Nurse_Lashes",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.08,
+      "metallic": 0,
+      "alpha": true,
+      "channel": 0,
+      "diffuse": "Nurse_Lashes_diffuse.png",
+      "hasDetail": true,
+      "detail": 0
+    },
+    {
+      "name": "Nurse_Shoes",
+      "colour": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "smoothness": 0.18,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 0,
+      "diffuse": "Nurse_Shoes_diffuse.png",
+      "normal": "Nurse_Shoes_normal.png"
+    },
+    {
+      "name": "Tree_Bark",
+      "colour": [
+        0.78,
+        0.78,
+        0.75,
+        1
+      ],
+      "smoothness": 0.1,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 1,
+      "diffuse": "Tree_Bark_diffuse.png",
+      "relief": 0.85
+    },
+    {
+      "name": "Tree_Leaves",
+      "colour": [
+        0.78,
+        0.87,
+        0.69,
+        1
+      ],
+      "smoothness": 0.25,
+      "metallic": 0,
+      "alpha": false,
+      "channel": 3,
+      "diffuse": "Leaf_Living_diffuse.png",
+      "transmission": 0.5,
+      "relief": 0.16,
+      "wind": 0.018
+    }
+  ]
+}

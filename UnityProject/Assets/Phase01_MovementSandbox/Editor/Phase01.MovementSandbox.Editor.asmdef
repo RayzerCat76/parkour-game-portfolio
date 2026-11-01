@@ -1,0 +1,11 @@
+{
+  "name": "Phase01.MovementSandbox.Editor",
+  "rootNamespace": "Phase01.MovementSandbox.Editor",
+  "references": [
+    "Phase01.MovementSandbox"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "autoReferenced": false
+}

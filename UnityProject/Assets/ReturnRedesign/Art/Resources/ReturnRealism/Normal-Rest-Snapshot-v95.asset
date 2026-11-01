@@ -1,0 +1,732 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f8116f72b629496682c32b797835434, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Return.Redesign::Return.Redesign.ReturnNormalRestSnapshot
+  captured: 1
+  finite: 1
+  borrowedViewsCleared: 1
+  weightStreams: 2
+  clearedViewCount: 4
+  ownedNativeAllocations: 0
+  triangleCount: 3
+  vertexSamples: 9
+  expressionFrames: 6
+  expressionDeltaSamples: 27
+  meshes:
+  - person: Mother
+    mesh: {fileID: 5291026764123520511, guid: 06e301882849541d09645ff13af43578, type: 3}
+    vertexCount: 53353
+    indexCount: 257448
+    importedReadable: 0
+    boneNames:
+    - Root
+    - pelvis
+    - spine_01
+    - spine_02
+    - spine_03
+    - clavicle_l
+    - upperarm_l
+    - lowerarm_l
+    - hand_l
+    - index_01_l
+    - index_02_l
+    - index_03_l
+    - middle_01_l
+    - middle_02_l
+    - middle_03_l
+    - pinky_01_l
+    - pinky_02_l
+    - pinky_03_l
+    - ring_01_l
+    - ring_02_l
+    - ring_03_l
+    - thumb_01_l
+    - thumb_02_l
+    - thumb_03_l
+    - clavicle_r
+    - upperarm_r
+    - lowerarm_r
+    - hand_r
+    - index_01_r
+    - index_02_r
+    - index_03_r
+    - middle_01_r
+    - middle_02_r
+    - middle_03_r
+    - pinky_01_r
+    - pinky_02_r
+    - pinky_03_r
+    - ring_01_r
+    - ring_02_r
+    - ring_03_r
+    - thumb_01_r
+    - thumb_02_r
+    - thumb_03_r
+    - return_forearm_roll_01_r
+    - return_forearm_roll_02_r
+    - return_forearm_roll_03_r
+    - return_forearm_roll_04_r
+    - return_forearm_roll_05_r
+    - return_forearm_roll_06_r
+    - return_forearm_roll_07_r
+    - return_forearm_roll_08_r
+    - neck_01
+    - head
+    - eye_l
+    - eye_r
+    - thigh_l
+    - calf_l
+    - foot_l
+    - ball_l
+    - thigh_r
+    - calf_r
+    - foot_r
+    - ball_r
+    triangles:
+    - triangle: 4616
+      indices: a50a0000a00a0000930a0000
+      restSurface: {x: 0.4940191, y: -0.85183877, z: -0.17411444}
+      vertices:
+      - vertex: 2725
+        position: {x: 0.021950245, y: -0.13854972, z: 1.3590206}
+        normal: {x: 0.48022404, y: -0.86549914, z: -0.14246461}
+        influences:
+        - bone: 52
+          boneName: head
+          weight: 1
+          bindParity: 0.99999976
+          bindPose:
+            e00: 0.9999999
+            e01: -0.0000000055879417
+            e02: 0.00000003888272
+            e03: -0.000000006519257
+            e10: -0.0000000386189
+            e11: 0.04128061
+            e12: 0.99914753
+            e13: -1.3841087
+            e20: -0.000000007188281
+            e21: -0.99914753
+            e22: 0.041280612
+            e23: -0.11455951
+            e30: 0
+            e31: 0
+            e32: 0
+            e33: 1
+        adjacent:
+        - triangle: 4616
+          indices: a50a0000a00a0000930a0000
+          degenerate: 0
+          restSurface: {x: 0.4940191, y: -0.85183877, z: -0.17411444}
+        - triangle: 4617
+          indices: a50a0000930a00008f0a0000
+          degenerate: 0
+          restSurface: {x: 0.48993123, y: -0.8542107, z: -0.17404461}
+        - triangle: 4618
+          indices: a60a0000a50a00008f0a0000
+          degenerate: 0
+          restSurface: {x: 0.49817047, y: -0.8513738, z: -0.16428296}
+        - triangle: 4642
+          indices: b40a0000a00a0000a50a0000
+          degenerate: 0
+          restSurface: {x: 0.4547504, y: -0.8822372, z: -0.121900275}
+        - triangle: 4651
+          indices: bb0a0000b40a0000a50a0000
+          degenerate: 0
+          restSurface: {x: 0.47139743, y: -0.87603664, z: -0.10170676}
+        - triangle: 4652
+          indices: bb0a0000a50a0000a60a0000
+          degenerate: 0
+          restSurface: {x: 0.4359143, y: -0.89388853, z: -0.1046039}
+      - vertex: 2720
+        position: {x: 0.021339523, y: -0.13878234, z: 1.3584259}
+        normal: {x: 0.48246172, y: -0.8616502, z: -0.15744694}
+        influences:
+        - bone: 52
+          boneName: head
+          weight: 1
+          bindParity: 0.99999976
+          bindPose:
+            e00: 0.9999999
+            e01: -0.0000000055879417
+            e02: 0.00000003888272
+            e03: -0.000000006519257
+            e10: -0.0000000386189
+            e11: 0.04128061
+            e12: 0.99914753
+            e13: -1.3841087
+            e20: -0.000000007188281
+            e21: -0.99914753
+            e22: 0.041280612
+            e23: -0.11455951
+            e30: 0
+            e31: 0
+            e32: 0
+            e33: 1
+        adjacent:
+        - triangle: 4607
+          indices: a00a0000950a0000930a0000
+          degenerate: 0
+          restSurface: {x: 0.48499903, y: -0.85503566, z: -0.18354814}
+        - triangle: 4609
+          indices: a00a0000a10a0000950a0000
+          degenerate: 0
+          restSurface: {x: 0.49482584, y: -0.8488958, z: -0.18580459}
+        - triangle: 4616
+          indices: a50a0000a00a0000930a0000
+          degenerate: 0
+          restSurface: {x: 0.4940191, y: -0.85183877, z: -0.17411444}
+        - triangle: 4632
+          indices: ae0a0000a10a0000a00a0000
+          degenerate: 0
+          restSurface: {x: 0.4682073, y: -0.8722272, z: -0.14142701}
+        - triangle: 4641
+          indices: b40a0000ae0a0000a00a0000
+          degenerate: 0
+          restSurface: {x: 0.48293486, y: -0.86658406, z: -0.12572184}
+        - triangle: 4642
+          indices: b40a0000a00a0000a50a0000
+          degenerate: 0
+          restSurface: {x: 0.4547504, y: -0.8822372, z: -0.121900275}
+      - vertex: 2707
+        position: {x: 0.021828402, y: -0.13837506, z: 1.3578204}
+        normal: {x: 0.5056644, y: -0.8405179, z: -0.19450754}
+        influences:
+        - bone: 52
+          boneName: head
+          weight: 1
+          bindParity: 0.99999976
+          bindPose:
+            e00: 0.9999999
+            e01: -0.0000000055879417
+            e02: 0.00000003888272
+            e03: -0.000000006519257
+            e10: -0.0000000386189
+            e11: 0.04128061
+            e12: 0.99914753
+            e13: -1.3841087
+            e20: -0.000000007188281
+            e21: -0.99914753
+            e22: 0.041280612
+            e23: -0.11455951
+            e30: 0
+            e31: 0
+            e32: 0
+            e33: 1
+        adjacent:
+        - triangle: 4587
+          indices: 930a0000900a00008d0a0000
+          degenerate: 0
+          restSurface: {x: 0.51133883, y: -0.8328997, z: -0.21168534}
+        - triangle: 4588
+          indices: 8f0a0000930a00008d0a0000
+          degenerate: 0
+          restSurface: {x: 0.51621807, y: -0.8310635, z: -0.20700806}
+        - triangle: 4592
+          indices: 930a0000950a0000900a0000
+          degenerate: 0
+          restSurface: {x: 0.5014628, y: -0.8391917, z: -0.21045749}
+        - triangle: 4607
+          indices: a00a0000950a0000930a0000
+          degenerate: 0
+          restSurface: {x: 0.48499903, y: -0.85503566, z: -0.18354814}
+        - triangle: 4616
+          indices: a50a0000a00a0000930a0000
+          degenerate: 0
+          restSurface: {x: 0.4940191, y: -0.85183877, z: -0.17411444}
+        - triangle: 4617
+          indices: a50a0000930a00008f0a0000
+          degenerate: 0
+          restSurface: {x: 0.48993123, y: -0.8542107, z: -0.17404461}
+    frames:
+    - name: Blink
+      shape: 0
+      frame: 0
+      weight: 100
+      deltas:
+      - vertex: 2707
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 2720
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 2725
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+    - name: SoftConcern
+      shape: 3
+      frame: 0
+      weight: 100
+      deltas:
+      - vertex: 2707
+        position: {x: 0.00035642833, y: 0.0002580583, z: 0.0009249449}
+        normal: {x: 0.012582839, y: 0.007025957, z: 0.002473846}
+      - vertex: 2720
+        position: {x: 0.0003713984, y: 0.00024999678, z: 0.0009850264}
+        normal: {x: 0.0075693727, y: 0.00371629, z: 0.0030304343}
+      - vertex: 2725
+        position: {x: 0.00041395798, y: 0.00027379394, z: 0.0010335445}
+        normal: {x: 0.010018408, y: 0.0056051016, z: -0.000026926398}
+    - name: SoftRelief
+      shape: 4
+      frame: 0
+      weight: 100
+      deltas:
+      - vertex: 2707
+        position: {x: 0.00064156577, y: 0.000464499, z: 0.0016651154}
+        normal: {x: 0.022105455, y: 0.01274848, z: 0.00333637}
+      - vertex: 2720
+        position: {x: 0.0006685164, y: 0.00044998527, z: 0.0017732382}
+        normal: {x: 0.013172716, y: 0.0066235065, z: 0.0047474355}
+      - vertex: 2725
+        position: {x: 0.00074512325, y: 0.0004928261, z: 0.0018606186}
+        normal: {x: 0.017449468, y: 0.009972811, z: -0.0006944388}
+  - person: Nurse
+    mesh: {fileID: 5291026764123520511, guid: c16352604589f401bbac89da83296592, type: 3}
+    vertexCount: 52246
+    indexCount: 253632
+    importedReadable: 0
+    boneNames:
+    - Root
+    - pelvis
+    - spine_01
+    - spine_02
+    - spine_03
+    - clavicle_l
+    - upperarm_l
+    - lowerarm_l
+    - hand_l
+    - index_01_l
+    - index_02_l
+    - index_03_l
+    - middle_01_l
+    - middle_02_l
+    - middle_03_l
+    - pinky_01_l
+    - pinky_02_l
+    - pinky_03_l
+    - ring_01_l
+    - ring_02_l
+    - ring_03_l
+    - thumb_01_l
+    - thumb_02_l
+    - thumb_03_l
+    - clavicle_r
+    - upperarm_r
+    - lowerarm_r
+    - hand_r
+    - index_01_r
+    - index_02_r
+    - index_03_r
+    - middle_01_r
+    - middle_02_r
+    - middle_03_r
+    - pinky_01_r
+    - pinky_02_r
+    - pinky_03_r
+    - ring_01_r
+    - ring_02_r
+    - ring_03_r
+    - thumb_01_r
+    - thumb_02_r
+    - thumb_03_r
+    - neck_01
+    - head
+    - eye_l
+    - eye_r
+    - thigh_l
+    - calf_l
+    - foot_l
+    - ball_l
+    - thigh_r
+    - calf_r
+    - foot_r
+    - ball_r
+    triangles:
+    - triangle: 2140
+      indices: e9040000e6040000eb040000
+      restSurface: {x: -0.1297797, y: -0.97483206, z: -0.18127228}
+      vertices:
+      - vertex: 1257
+        position: {x: -0.029942539, y: -0.12373569, z: 1.4236046}
+        normal: {x: -0.16172694, y: -0.96758276, z: -0.19397894}
+        influences:
+        - bone: 44
+          boneName: head
+          weight: 1
+          bindParity: 1.0000001
+          bindPose:
+            e00: 1
+            e01: -0.00000001210719
+            e02: -0.00000002238085
+            e03: -0.000000037252903
+            e10: 0.00000002269258
+            e11: 0.026391441
+            e12: 0.9996519
+            e13: -1.395659
+            e20: -0.000000011512309
+            e21: -0.99965155
+            e22: 0.026391437
+            e23: -0.07853577
+            e30: 0
+            e31: 0
+            e32: 0
+            e33: 1
+        adjacent:
+        - triangle: 2135
+          indices: e9040000e5040000e6040000
+          degenerate: 0
+          restSurface: {x: -0.13649045, y: -0.9701842, z: -0.20028216}
+        - triangle: 2136
+          indices: e7040000e5040000e9040000
+          degenerate: 0
+          restSurface: {x: -0.19222355, y: -0.9618214, z: -0.19480693}
+        - triangle: 2140
+          indices: e9040000e6040000eb040000
+          degenerate: 0
+          restSurface: {x: -0.1297797, y: -0.97483206, z: -0.18127228}
+        - triangle: 2148
+          indices: e9040000f0040000e7040000
+          degenerate: 0
+          restSurface: {x: -0.19289276, y: -0.9596418, z: -0.20464604}
+        - triangle: 2150
+          indices: eb040000f1040000e9040000
+          degenerate: 0
+          restSurface: {x: -0.13011214, y: -0.9728634, z: -0.19133145}
+        - triangle: 2151
+          indices: e9040000f1040000f0040000
+          degenerate: 0
+          restSurface: {x: -0.18570518, y: -0.9648549, z: -0.18592642}
+      - vertex: 1254
+        position: {x: -0.028352853, y: -0.123838305, z: 1.4230183}
+        normal: {x: -0.10692973, y: -0.975632, z: -0.19159405}
+        influences:
+        - bone: 44
+          boneName: head
+          weight: 1
+          bindParity: 1.0000001
+          bindPose:
+            e00: 1
+            e01: -0.00000001210719
+            e02: -0.00000002238085
+            e03: -0.000000037252903
+            e10: 0.00000002269258
+            e11: 0.026391441
+            e12: 0.9996519
+            e13: -1.395659
+            e20: -0.000000011512309
+            e21: -0.99965155
+            e22: 0.026391437
+            e23: -0.07853577
+            e30: 0
+            e31: 0
+            e32: 0
+            e33: 1
+        adjacent:
+        - triangle: 2129
+          indices: a7040000e6040000df040000
+          degenerate: 0
+          restSurface: {x: -0.07667563, y: -0.97794384, z: -0.19428498}
+        - triangle: 2130
+          indices: e5040000df040000e6040000
+          degenerate: 0
+          restSurface: {x: -0.13624117, y: -0.97145826, z: -0.19418341}
+        - triangle: 2133
+          indices: e8040000e6040000a7040000
+          degenerate: 0
+          restSurface: {x: -0.07657131, y: -0.98112154, z: -0.17758748}
+        - triangle: 2135
+          indices: e9040000e5040000e6040000
+          degenerate: 0
+          restSurface: {x: -0.13649045, y: -0.9701842, z: -0.20028216}
+        - triangle: 2139
+          indices: e8040000eb040000e6040000
+          degenerate: 0
+          restSurface: {x: -0.07501685, y: -0.9803134, z: -0.18264206}
+        - triangle: 2140
+          indices: e9040000e6040000eb040000
+          degenerate: 0
+          restSurface: {x: -0.1297797, y: -0.97483206, z: -0.18127228}
+      - vertex: 1259
+        position: {x: -0.028349724, y: -0.12393085, z: 1.4235138}
+        normal: {x: -0.102899045, y: -0.97788835, z: -0.1820604}
+        influences:
+        - bone: 44
+          boneName: head
+          weight: 1
+          bindParity: 1.0000001
+          bindPose:
+            e00: 1
+            e01: -0.00000001210719
+            e02: -0.00000002238085
+            e03: -0.000000037252903
+            e10: 0.00000002269258
+            e11: 0.026391441
+            e12: 0.9996519
+            e13: -1.395659
+            e20: -0.000000011512309
+            e21: -0.99965155
+            e22: 0.026391437
+            e23: -0.07853577
+            e30: 0
+            e31: 0
+            e32: 0
+            e33: 1
+        adjacent:
+        - triangle: 2139
+          indices: e8040000eb040000e6040000
+          degenerate: 0
+          restSurface: {x: -0.07501685, y: -0.9803134, z: -0.18264206}
+        - triangle: 2140
+          indices: e9040000e6040000eb040000
+          degenerate: 0
+          restSurface: {x: -0.1297797, y: -0.97483206, z: -0.18127228}
+        - triangle: 2144
+          indices: ed040000eb040000e8040000
+          degenerate: 0
+          restSurface: {x: -0.0749696, y: -0.98218435, z: -0.17231798}
+        - triangle: 2150
+          indices: eb040000f1040000e9040000
+          degenerate: 0
+          restSurface: {x: -0.13011214, y: -0.9728634, z: -0.19133145}
+        - triangle: 2152
+          indices: ed040000f2040000eb040000
+          degenerate: 0
+          restSurface: {x: -0.0736695, y: -0.9815396, z: -0.1765015}
+        - triangle: 2153
+          indices: eb040000f2040000f1040000
+          degenerate: 0
+          restSurface: {x: -0.12399306, y: -0.976965, z: -0.17368114}
+    - triangle: 15986
+      indices: 4c2600006f26000049260000
+      restSurface: {x: 0.024588743, y: -0.98419714, z: -0.17536074}
+      vertices:
+      - vertex: 9804
+        position: {x: 0.025109446, y: -0.12409168, z: 1.4234937}
+        normal: {x: 0.000499026, y: -0.9853474, z: -0.1705592}
+        influences:
+        - bone: 44
+          boneName: head
+          weight: 1
+          bindParity: 1.0000001
+          bindPose:
+            e00: 1
+            e01: -0.00000001210719
+            e02: -0.00000002238085
+            e03: -0.000000037252903
+            e10: 0.00000002269258
+            e11: 0.026391441
+            e12: 0.9996519
+            e13: -1.395659
+            e20: -0.000000011512309
+            e21: -0.99965155
+            e22: 0.026391437
+            e23: -0.07853577
+            e30: 0
+            e31: 0
+            e32: 0
+            e33: 1
+        adjacent:
+        - triangle: 15923
+          indices: 472600004c26000044260000
+          degenerate: 0
+          restSurface: {x: -0.026121832, y: -0.9857284, z: -0.16630438}
+        - triangle: 15924
+          indices: 442600004c26000049260000
+          degenerate: 0
+          restSurface: {x: 0.024647929, y: -0.98522466, z: -0.16948389}
+        - triangle: 15928
+          indices: 472600004f2600004c260000
+          degenerate: 0
+          restSurface: {x: -0.022631345, y: -0.987506, z: -0.15594795}
+        - triangle: 15976
+          indices: 4f2600006a2600004c260000
+          degenerate: 0
+          restSurface: {x: -0.022860581, y: -0.98467433, z: -0.17289834}
+        - triangle: 15985
+          indices: 4c2600006a2600006f260000
+          degenerate: 0
+          restSurface: {x: 0.023850732, y: -0.98381937, z: -0.17756853}
+        - triangle: 15986
+          indices: 4c2600006f26000049260000
+          degenerate: 0
+          restSurface: {x: 0.024588743, y: -0.98419714, z: -0.17536074}
+      - vertex: 9839
+        position: {x: 0.02669895, y: -0.12396127, z: 1.4229847}
+        normal: {x: 0.05080596, y: -0.9818812, z: -0.18255964}
+        influences:
+        - bone: 44
+          boneName: head
+          weight: 1
+          bindParity: 1.0000001
+          bindPose:
+            e00: 1
+            e01: -0.00000001210719
+            e02: -0.00000002238085
+            e03: -0.000000037252903
+            e10: 0.00000002269258
+            e11: 0.026391441
+            e12: 0.9996519
+            e13: -1.395659
+            e20: -0.000000011512309
+            e21: -0.99965155
+            e22: 0.026391437
+            e23: -0.07853577
+            e30: 0
+            e31: 0
+            e32: 0
+            e33: 1
+        adjacent:
+        - triangle: 15985
+          indices: 4c2600006a2600006f260000
+          degenerate: 0
+          restSurface: {x: 0.023850732, y: -0.98381937, z: -0.17756853}
+        - triangle: 15986
+          indices: 4c2600006f26000049260000
+          degenerate: 0
+          restSurface: {x: 0.024588743, y: -0.98419714, z: -0.17536074}
+        - triangle: 15996
+          indices: 6a260000742600006f260000
+          degenerate: 0
+          restSurface: {x: 0.023770073, y: -0.98288435, z: -0.18268378}
+        - triangle: 15997
+          indices: 492600006f26000075260000
+          degenerate: 0
+          restSurface: {x: 0.07654584, y: -0.9811138, z: -0.17764136}
+        - triangle: 16003
+          indices: 6f2600007426000078260000
+          degenerate: 0
+          restSurface: {x: 0.0788138, y: -0.9791454, z: -0.18725039}
+        - triangle: 16004
+          indices: 6f2600007826000075260000
+          degenerate: 0
+          restSurface: {x: 0.07664912, y: -0.9779287, z: -0.1943717}
+      - vertex: 9801
+        position: {x: 0.026726149, y: -0.12404969, z: 1.4234848}
+        normal: {x: 0.049959525, y: -0.98320967, z: -0.17550772}
+        influences:
+        - bone: 44
+          boneName: head
+          weight: 1
+          bindParity: 1.0000001
+          bindPose:
+            e00: 1
+            e01: -0.00000001210719
+            e02: -0.00000002238085
+            e03: -0.000000037252903
+            e10: 0.00000002269258
+            e11: 0.026391441
+            e12: 0.9996519
+            e13: -1.395659
+            e20: -0.000000011512309
+            e21: -0.99965155
+            e22: 0.026391437
+            e23: -0.07853577
+            e30: 0
+            e31: 0
+            e32: 0
+            e33: 1
+        adjacent:
+        - triangle: 15919
+          indices: 442600004926000042260000
+          degenerate: 0
+          restSurface: {x: 0.02383821, y: -0.98482454, z: -0.17190802}
+        - triangle: 15920
+          indices: 422600004926000046260000
+          degenerate: 0
+          restSurface: {x: 0.0749697, y: -0.9821748, z: -0.17237216}
+        - triangle: 15924
+          indices: 442600004c26000049260000
+          degenerate: 0
+          restSurface: {x: 0.024647929, y: -0.98522466, z: -0.16948389}
+        - triangle: 15986
+          indices: 4c2600006f26000049260000
+          degenerate: 0
+          restSurface: {x: 0.024588743, y: -0.98419714, z: -0.17536074}
+        - triangle: 15997
+          indices: 492600006f26000075260000
+          degenerate: 0
+          restSurface: {x: 0.07654584, y: -0.9811138, z: -0.17764136}
+        - triangle: 15998
+          indices: 492600007526000046260000
+          degenerate: 0
+          restSurface: {x: 0.075016566, y: -0.9803186, z: -0.18261412}
+    frames:
+    - name: Blink
+      shape: 0
+      frame: 0
+      weight: 100
+      deltas:
+      - vertex: 1254
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 1257
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 1259
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 9801
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 9804
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 9839
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+    - name: SoftConcern
+      shape: 3
+      frame: 0
+      weight: 100
+      deltas:
+      - vertex: 1254
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 1257
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 1259
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 9801
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 9804
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 9839
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+    - name: SoftRelief
+      shape: 4
+      frame: 0
+      weight: 100
+      deltas:
+      - vertex: 1254
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 1257
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 1259
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 9801
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 9804
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}
+      - vertex: 9839
+        position: {x: 0, y: 0, z: 0}
+        normal: {x: 0, y: 0, z: 0}

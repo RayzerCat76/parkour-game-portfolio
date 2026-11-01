@@ -1,0 +1,676 @@
+fileFormatVersion: 2
+guid: 69ce2ce0d6d9b46a6875576ae42049c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5375046175131978109
+    second: Dreamer_Hair_diffuse_0
+  - first:
+      213: -1043873179835198054
+    second: Dreamer_Hair_diffuse_1
+  - first:
+      213: -449722385589519493
+    second: Dreamer_Hair_diffuse_2
+  - first:
+      213: -4317782102340443971
+    second: Dreamer_Hair_diffuse_3
+  - first:
+      213: 8750487444612725309
+    second: Dreamer_Hair_diffuse_4
+  - first:
+      213: 2515391920658600051
+    second: Dreamer_Hair_diffuse_5
+  - first:
+      213: 6728188104288178590
+    second: Dreamer_Hair_diffuse_6
+  - first:
+      213: 6613624680075674169
+    second: Dreamer_Hair_diffuse_7
+  - first:
+      213: -3375679867235339784
+    second: Dreamer_Hair_diffuse_8
+  - first:
+      213: -8423200606223637471
+    second: Dreamer_Hair_diffuse_9
+  - first:
+      213: 5253303822814439379
+    second: Dreamer_Hair_diffuse_10
+  - first:
+      213: -5069645089625399309
+    second: Dreamer_Hair_diffuse_11
+  - first:
+      213: 7776894129666097123
+    second: Dreamer_Hair_diffuse_12
+  - first:
+      213: -2337833249398886065
+    second: Dreamer_Hair_diffuse_13
+  - first:
+      213: 5045828989385836515
+    second: Dreamer_Hair_diffuse_14
+  - first:
+      213: 2805660447600309899
+    second: Dreamer_Hair_diffuse_15
+  - first:
+      213: 2747670208137489687
+    second: Dreamer_Hair_diffuse_16
+  - first:
+      213: 6954151568360013253
+    second: Dreamer_Hair_diffuse_17
+  - first:
+      213: 9048984840051855431
+    second: Dreamer_Hair_diffuse_18
+  - first:
+      213: 2076921121992331631
+    second: Dreamer_Hair_diffuse_19
+  - first:
+      213: 5515954233729230829
+    second: Dreamer_Hair_diffuse_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 1
+    alphaTestReferenceValue: 0.35
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 8
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_0
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 43
+        width: 1486
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386bfef5bfff765b0800000000000000
+      internalID: -5375046175131978109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_1
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 1010
+        width: 1408
+        height: 992
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a959d55afda6381f0800000000000000
+      internalID: -1043873179835198054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_2
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 42
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b356f7fd342c9f0800000000000000
+      internalID: -449722385589519493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_3
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 44
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db06574fd082414c0800000000000000
+      internalID: -4317782102340443971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_4
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 18
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a38a308f9ff6970800000000000000
+      internalID: 8750487444612725309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_5
+      rect:
+        serializedVersion: 2
+        x: 1773
+        y: 19
+        width: 40
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3705ebdef9778e220800000000000000
+      internalID: 2515391920658600051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_6
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 19
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e911b12fe635f5d50800000000000000
+      internalID: 6728188104288178590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_7
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932caa52b9058cb50800000000000000
+      internalID: 6613624680075674169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_8
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 19
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f1fffdbb0d2721d0800000000000000
+      internalID: -3375679867235339784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_9
+      rect:
+        serializedVersion: 2
+        x: 1861
+        y: 18
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1246f2a3da7ca1b80800000000000000
+      internalID: -8423200606223637471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_10
+      rect:
+        serializedVersion: 2
+        x: 1875
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d76e006efb77e840800000000000000
+      internalID: 5253303822814439379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_11
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 18
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff139fa6a005a9b0800000000000000
+      internalID: -5069645089625399309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_12
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 19
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ef7196d1041deb60800000000000000
+      internalID: 7776894129666097123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_13
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 18
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f417b79cb095e8fd0800000000000000
+      internalID: -2337833249398886065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_14
+      rect:
+        serializedVersion: 2
+        x: 1933
+        y: 19
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e706bd5bb2660640800000000000000
+      internalID: 5045828989385836515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_15
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 18
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b867493ef45bfe620800000000000000
+      internalID: 2805660447600309899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_16
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 19
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d65fb1f7fa12620800000000000000
+      internalID: 2747670208137489687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_17
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 18
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdf25ab10c128060800000000000000
+      internalID: 6954151568360013253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_18
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 18
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7409f29b4c3749d70800000000000000
+      internalID: 9048984840051855431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_19
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 19
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61dbd6a1c4b2dc10800000000000000
+      internalID: 2076921121992331631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dreamer_Hair_diffuse_20
+      rect:
+        serializedVersion: 2
+        x: 2014
+        y: 13
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de72eba962b9c8c40800000000000000
+      internalID: 5515954233729230829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Dreamer_Hair_diffuse_0: -5375046175131978109
+      Dreamer_Hair_diffuse_1: -1043873179835198054
+      Dreamer_Hair_diffuse_10: 5253303822814439379
+      Dreamer_Hair_diffuse_11: -5069645089625399309
+      Dreamer_Hair_diffuse_12: 7776894129666097123
+      Dreamer_Hair_diffuse_13: -2337833249398886065
+      Dreamer_Hair_diffuse_14: 5045828989385836515
+      Dreamer_Hair_diffuse_15: 2805660447600309899
+      Dreamer_Hair_diffuse_16: 2747670208137489687
+      Dreamer_Hair_diffuse_17: 6954151568360013253
+      Dreamer_Hair_diffuse_18: 9048984840051855431
+      Dreamer_Hair_diffuse_19: 2076921121992331631
+      Dreamer_Hair_diffuse_2: -449722385589519493
+      Dreamer_Hair_diffuse_20: 5515954233729230829
+      Dreamer_Hair_diffuse_3: -4317782102340443971
+      Dreamer_Hair_diffuse_4: 8750487444612725309
+      Dreamer_Hair_diffuse_5: 2515391920658600051
+      Dreamer_Hair_diffuse_6: 6728188104288178590
+      Dreamer_Hair_diffuse_7: 6613624680075674169
+      Dreamer_Hair_diffuse_8: -3375679867235339784
+      Dreamer_Hair_diffuse_9: -8423200606223637471
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

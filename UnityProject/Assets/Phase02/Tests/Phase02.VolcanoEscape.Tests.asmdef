@@ -1,0 +1,13 @@
+{
+  "name": "Phase02.VolcanoEscape.PlayModeTests",
+  "rootNamespace": "Phase02.VolcanoEscape.Tests",
+  "references": [
+    "Phase02.VolcanoEscape",
+    "Phase01.MovementSandbox",
+    "ProjectReturn.Core"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "autoReferenced": true
+}

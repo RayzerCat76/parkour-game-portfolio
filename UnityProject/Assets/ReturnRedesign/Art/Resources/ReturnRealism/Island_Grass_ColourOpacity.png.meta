@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: f812dcecef4ea4f1aaaa54461bea76ee
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6875368025039940077
+    second: Island_Grass_ColourOpacity_0
+  - first:
+      213: 8280682249219758766
+    second: Island_Grass_ColourOpacity_1
+  - first:
+      213: 947008310812266306
+    second: Island_Grass_ColourOpacity_2
+  - first:
+      213: -5642343763409854213
+    second: Island_Grass_ColourOpacity_3
+  - first:
+      213: 7243008763955062535
+    second: Island_Grass_ColourOpacity_4
+  - first:
+      213: 1606352019300217917
+    second: Island_Grass_ColourOpacity_5
+  - first:
+      213: -5980228278762762264
+    second: Island_Grass_ColourOpacity_6
+  - first:
+      213: 8886306757140257028
+    second: Island_Grass_ColourOpacity_7
+  - first:
+      213: -1621838181376212118
+    second: Island_Grass_ColourOpacity_8
+  - first:
+      213: -8950246281224192401
+    second: Island_Grass_ColourOpacity_9
+  - first:
+      213: 3717460802039950407
+    second: Island_Grass_ColourOpacity_10
+  - first:
+      213: -5363612169173557092
+    second: Island_Grass_ColourOpacity_11
+  - first:
+      213: -8841716336180093136
+    second: Island_Grass_ColourOpacity_12
+  - first:
+      213: 4313445266634983075
+    second: Island_Grass_ColourOpacity_13
+  - first:
+      213: 8050208471120305691
+    second: Island_Grass_ColourOpacity_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 1
+    alphaTestReferenceValue: 0.35
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 8
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Island_Grass_ColourOpacity_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 1457
+        width: 546
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3165a6f5539c590a0800000000000000
+      internalID: -6875368025039940077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island_Grass_ColourOpacity_1
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 1409
+        width: 236
+        height: 580
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa50aaf1a4eae270800000000000000
+      internalID: 8280682249219758766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island_Grass_ColourOpacity_2
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 1575
+        width: 266
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24fce4d8a03742d00800000000000000
+      internalID: 947008310812266306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island_Grass_ColourOpacity_3
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1560
+        width: 546
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0a059dd3e52b1b0800000000000000
+      internalID: -5642343763409854213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island_Grass_ColourOpacity_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 938
+        width: 277
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70725908816548460800000000000000
+      internalID: 7243008763955062535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island_Grass_ColourOpacity_5
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 945
+        width: 372
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34fe9696a8ea4610800000000000000
+      internalID: 1606352019300217917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island_Grass_ColourOpacity_6
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 928
+        width: 366
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef8998a016f10da0800000000000000
+      internalID: -5980228278762762264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island_Grass_ColourOpacity_7
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 925
+        width: 326
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4099f78f9e0825b70800000000000000
+      internalID: 8886306757140257028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island_Grass_ColourOpacity_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 26
+        width: 254
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63c7e354c21e79e0800000000000000
+      internalID: -1621838181376212118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island_Grass_ColourOpacity_9
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 29
+        width: 320
+        height: 730
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6efe5b7d665ac380800000000000000
+      internalID: -8950246281224192401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island_Grass_ColourOpacity_10
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 18
+        width: 395
+        height: 627
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ca70c47e2179330800000000000000
+      internalID: 3717460802039950407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island_Grass_ColourOpacity_11
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 19
+        width: 344
+        height: 669
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90a277562f9095b0800000000000000
+      internalID: -5363612169173557092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island_Grass_ColourOpacity_12
+      rect:
+        serializedVersion: 2
+        x: 1801
+        y: 606
+        width: 30
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f973176d9eb4580800000000000000
+      internalID: -8841716336180093136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island_Grass_ColourOpacity_13
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 26
+        width: 25
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a64edbcd9f6cdb30800000000000000
+      internalID: 4313445266634983075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Island_Grass_ColourOpacity_14
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 26
+        width: 25
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1e57f0e3f518bf60800000000000000
+      internalID: 8050208471120305691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Island_Grass_ColourOpacity_0: -6875368025039940077
+      Island_Grass_ColourOpacity_1: 8280682249219758766
+      Island_Grass_ColourOpacity_10: 3717460802039950407
+      Island_Grass_ColourOpacity_11: -5363612169173557092
+      Island_Grass_ColourOpacity_12: -8841716336180093136
+      Island_Grass_ColourOpacity_13: 4313445266634983075
+      Island_Grass_ColourOpacity_14: 8050208471120305691
+      Island_Grass_ColourOpacity_2: 947008310812266306
+      Island_Grass_ColourOpacity_3: -5642343763409854213
+      Island_Grass_ColourOpacity_4: 7243008763955062535
+      Island_Grass_ColourOpacity_5: 1606352019300217917
+      Island_Grass_ColourOpacity_6: -5980228278762762264
+      Island_Grass_ColourOpacity_7: 8886306757140257028
+      Island_Grass_ColourOpacity_8: -1621838181376212118
+      Island_Grass_ColourOpacity_9: -8950246281224192401
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

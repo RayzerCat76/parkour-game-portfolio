@@ -1,0 +1,1534 @@
+fileFormatVersion: 2
+guid: 4dd7b87443c624de88f0707768392277
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2987120509243584346
+    second: Nurse_Lashes_diffuse_0
+  - first:
+      213: -7933666036861409953
+    second: Nurse_Lashes_diffuse_1
+  - first:
+      213: -3836155908429084513
+    second: Nurse_Lashes_diffuse_2
+  - first:
+      213: 4857007894102772110
+    second: Nurse_Lashes_diffuse_3
+  - first:
+      213: 6401942062352792272
+    second: Nurse_Lashes_diffuse_4
+  - first:
+      213: 1816068932230780620
+    second: Nurse_Lashes_diffuse_5
+  - first:
+      213: 4562913353960481303
+    second: Nurse_Lashes_diffuse_6
+  - first:
+      213: -2551510451673653628
+    second: Nurse_Lashes_diffuse_7
+  - first:
+      213: 4775577944098690503
+    second: Nurse_Lashes_diffuse_8
+  - first:
+      213: 2546576997186361128
+    second: Nurse_Lashes_diffuse_9
+  - first:
+      213: -8313957480480541077
+    second: Nurse_Lashes_diffuse_10
+  - first:
+      213: 8468014466020730319
+    second: Nurse_Lashes_diffuse_11
+  - first:
+      213: 8998164165688126155
+    second: Nurse_Lashes_diffuse_12
+  - first:
+      213: -7121727171429615819
+    second: Nurse_Lashes_diffuse_13
+  - first:
+      213: -2704001177352572802
+    second: Nurse_Lashes_diffuse_14
+  - first:
+      213: 685894026883418769
+    second: Nurse_Lashes_diffuse_15
+  - first:
+      213: -5223103087188817048
+    second: Nurse_Lashes_diffuse_16
+  - first:
+      213: 4461054175983086942
+    second: Nurse_Lashes_diffuse_17
+  - first:
+      213: 4965111743400957864
+    second: Nurse_Lashes_diffuse_18
+  - first:
+      213: 5099582542350370571
+    second: Nurse_Lashes_diffuse_19
+  - first:
+      213: 7473221782210292401
+    second: Nurse_Lashes_diffuse_20
+  - first:
+      213: 3421231936619017021
+    second: Nurse_Lashes_diffuse_21
+  - first:
+      213: -6620254304455211689
+    second: Nurse_Lashes_diffuse_22
+  - first:
+      213: 6581170099402507051
+    second: Nurse_Lashes_diffuse_23
+  - first:
+      213: 728446558979968535
+    second: Nurse_Lashes_diffuse_24
+  - first:
+      213: -1774863647675226318
+    second: Nurse_Lashes_diffuse_25
+  - first:
+      213: 1841684004536493227
+    second: Nurse_Lashes_diffuse_26
+  - first:
+      213: 1154297927149351492
+    second: Nurse_Lashes_diffuse_27
+  - first:
+      213: 2488029708353916299
+    second: Nurse_Lashes_diffuse_28
+  - first:
+      213: -3672766883976793537
+    second: Nurse_Lashes_diffuse_29
+  - first:
+      213: 2192649327389704748
+    second: Nurse_Lashes_diffuse_30
+  - first:
+      213: 1837589166746448509
+    second: Nurse_Lashes_diffuse_31
+  - first:
+      213: -7997021770723361391
+    second: Nurse_Lashes_diffuse_32
+  - first:
+      213: -7134160676684353811
+    second: Nurse_Lashes_diffuse_33
+  - first:
+      213: -1878054148252520363
+    second: Nurse_Lashes_diffuse_34
+  - first:
+      213: -4748749156957089005
+    second: Nurse_Lashes_diffuse_35
+  - first:
+      213: 8188339878850847058
+    second: Nurse_Lashes_diffuse_36
+  - first:
+      213: -9087564981792483714
+    second: Nurse_Lashes_diffuse_37
+  - first:
+      213: -2357769383914514615
+    second: Nurse_Lashes_diffuse_38
+  - first:
+      213: 9086497641764977787
+    second: Nurse_Lashes_diffuse_39
+  - first:
+      213: -5964726589734599710
+    second: Nurse_Lashes_diffuse_40
+  - first:
+      213: 395259042155449460
+    second: Nurse_Lashes_diffuse_41
+  - first:
+      213: -4092228416091300834
+    second: Nurse_Lashes_diffuse_42
+  - first:
+      213: -5426952134612639325
+    second: Nurse_Lashes_diffuse_43
+  - first:
+      213: -4476962328033720335
+    second: Nurse_Lashes_diffuse_44
+  - first:
+      213: 4400058387724235664
+    second: Nurse_Lashes_diffuse_45
+  - first:
+      213: -633163739134017561
+    second: Nurse_Lashes_diffuse_46
+  - first:
+      213: 117360187155900574
+    second: Nurse_Lashes_diffuse_47
+  - first:
+      213: -3602711881080056427
+    second: Nurse_Lashes_diffuse_48
+  - first:
+      213: -1854505219728299162
+    second: Nurse_Lashes_diffuse_49
+  - first:
+      213: -5249045573369416315
+    second: Nurse_Lashes_diffuse_50
+  - first:
+      213: -3342440186626606673
+    second: Nurse_Lashes_diffuse_51
+  - first:
+      213: 3841973356524685244
+    second: Nurse_Lashes_diffuse_52
+  - first:
+      213: 807399111052667014
+    second: Nurse_Lashes_diffuse_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.35
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 8
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 405
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f6fb6d642647920800000000000000
+      internalID: 2987120509243584346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_1
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 406
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f556b4a16c4f5e190800000000000000
+      internalID: -7933666036861409953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_2
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 405
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98811fa68c33cac0800000000000000
+      internalID: -3836155908429084513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_3
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 407
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89834732fe876340800000000000000
+      internalID: 4857007894102772110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_4
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 420
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da7b23036448d850800000000000000
+      internalID: 6401942062352792272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 423
+        width: 19
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc61d396219f33910800000000000000
+      internalID: 1816068932230780620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 425
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71263b32589b25f30800000000000000
+      internalID: 4562913353960481303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_7
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 425
+        width: 14
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e9b4f33c6379cd0800000000000000
+      internalID: -2551510451673653628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_8
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 407
+        width: 41
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5513b86d2464240800000000000000
+      internalID: 4775577944098690503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 410
+        width: 6
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827597e5942475320800000000000000
+      internalID: 2546576997186361128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_10
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 394
+        width: 29
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66714288b3ee9c80800000000000000
+      internalID: -8313957480480541077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_11
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 373
+        width: 31
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5e8089a4e648570800000000000000
+      internalID: 8468014466020730319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_12
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 351
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca6d7662a6efdc70800000000000000
+      internalID: 8998164165688126155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_13
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 348
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537b0bfbeda8a2d90800000000000000
+      internalID: -7121727171429615819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 263
+        width: 18
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7079af6145797ad0800000000000000
+      internalID: -2704001177352572802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_15
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 264
+        width: 14
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19ac2f1cbf8c48900800000000000000
+      internalID: 685894026883418769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 263
+        width: 26
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b4dd65a6fc387b0800000000000000
+      internalID: -5223103087188817048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_17
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 265
+        width: 29
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5dae3b2329d8ed30800000000000000
+      internalID: 4461054175983086942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_18
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 278
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7d88703de97e440800000000000000
+      internalID: 4965111743400957864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_19
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 281
+        width: 19
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07c393bd4b55c640800000000000000
+      internalID: 5099582542350370571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 283
+        width: 55
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba2b58bd9736b760800000000000000
+      internalID: 7473221782210292401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 283
+        width: 14
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33f564e158aa7f20800000000000000
+      internalID: 3421231936619017021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_22
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 265
+        width: 41
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755423429c12024a0800000000000000
+      internalID: -6620254304455211689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 268
+        width: 6
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b230f4d3653055b50800000000000000
+      internalID: 6581170099402507051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_24
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 252
+        width: 29
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e4bd13946fb1a00800000000000000
+      internalID: 728446558979968535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_25
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 231
+        width: 31
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23760938aea6e57e0800000000000000
+      internalID: -1774863647675226318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 209
+        width: 61
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4aaee28d9fe8910800000000000000
+      internalID: 1841684004536493227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 206
+        width: 89
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442f4b859d3e40010800000000000000
+      internalID: 1154297927149351492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_28
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 151
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dcd0d66d1478220800000000000000
+      internalID: 2488029708353916299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 146
+        width: 10
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32beb96af5b70dc0800000000000000
+      internalID: -3672766883976793537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 140
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22001432fadd6e10800000000000000
+      internalID: 2192649327389704748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_31
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 161
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7237077c9d608910800000000000000
+      internalID: 1837589166746448509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_32
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 132
+        width: 16
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19df7fec11fd40190800000000000000
+      internalID: -7997021770723361391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_33
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 130
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee2ba7b9ae5efc90800000000000000
+      internalID: -7134160676684353811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_34
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 122
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550b578d3bfcfe5e0800000000000000
+      internalID: -1878054148252520363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_35
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 161
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313132c3dcd091eb0800000000000000
+      internalID: -4748749156957089005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_36
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 128
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251e1137cb3d2a170800000000000000
+      internalID: 8188339878850847058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_37
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 137
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e76dafa0ccb72e180800000000000000
+      internalID: -9087564981792483714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_38
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 186
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947db71cc35874fd0800000000000000
+      internalID: -2357769383914514615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_39
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 122
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c73dd7679b91e70800000000000000
+      internalID: 9086497641764977787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_40
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 130
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3ca84e4c8093da0800000000000000
+      internalID: -5964726589734599710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_41
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 30
+        width: 86
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ccfe1310e3c7500800000000000000
+      internalID: 395259042155449460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_42
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 79
+        width: 45
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c5e17efeb7537c0800000000000000
+      internalID: -4092228416091300834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_43
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 44
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1ad5b69c79fa4b0800000000000000
+      internalID: -5426952134612639325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_44
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 39
+        width: 10
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f78ebc8b72aed1c0800000000000000
+      internalID: -4476962328033720335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 33
+        width: 25
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 093f7478ac5201d30800000000000000
+      internalID: 4400058387724235664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_46
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 54
+        width: 8
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef32441fec8637f0800000000000000
+      internalID: -633163739134017561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 25
+        width: 16
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98633ae772f0a100800000000000000
+      internalID: 117360187155900574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_48
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 23
+        width: 24
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 595d424d1a8900ec0800000000000000
+      internalID: -3602711881080056427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_49
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 15
+        width: 54
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bacf704597346e0800000000000000
+      internalID: -1854505219728299162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_50
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 23
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 585ba759cd4a727b0800000000000000
+      internalID: -5249045573369416315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_51
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 15
+        width: 37
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa97129fb544d91d0800000000000000
+      internalID: -3342440186626606673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_52
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 54
+        width: 6
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb74b20896e615530800000000000000
+      internalID: 3841973356524685244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Nurse_Lashes_diffuse_53
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 21
+        width: 33
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688a246b635743b00800000000000000
+      internalID: 807399111052667014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Nurse_Lashes_diffuse_0: 2987120509243584346
+      Nurse_Lashes_diffuse_1: -7933666036861409953
+      Nurse_Lashes_diffuse_10: -8313957480480541077
+      Nurse_Lashes_diffuse_11: 8468014466020730319
+      Nurse_Lashes_diffuse_12: 8998164165688126155
+      Nurse_Lashes_diffuse_13: -7121727171429615819
+      Nurse_Lashes_diffuse_14: -2704001177352572802
+      Nurse_Lashes_diffuse_15: 685894026883418769
+      Nurse_Lashes_diffuse_16: -5223103087188817048
+      Nurse_Lashes_diffuse_17: 4461054175983086942
+      Nurse_Lashes_diffuse_18: 4965111743400957864
+      Nurse_Lashes_diffuse_19: 5099582542350370571
+      Nurse_Lashes_diffuse_2: -3836155908429084513
+      Nurse_Lashes_diffuse_20: 7473221782210292401
+      Nurse_Lashes_diffuse_21: 3421231936619017021
+      Nurse_Lashes_diffuse_22: -6620254304455211689
+      Nurse_Lashes_diffuse_23: 6581170099402507051
+      Nurse_Lashes_diffuse_24: 728446558979968535
+      Nurse_Lashes_diffuse_25: -1774863647675226318
+      Nurse_Lashes_diffuse_26: 1841684004536493227
+      Nurse_Lashes_diffuse_27: 1154297927149351492
+      Nurse_Lashes_diffuse_28: 2488029708353916299
+      Nurse_Lashes_diffuse_29: -3672766883976793537
+      Nurse_Lashes_diffuse_3: 4857007894102772110
+      Nurse_Lashes_diffuse_30: 2192649327389704748
+      Nurse_Lashes_diffuse_31: 1837589166746448509
+      Nurse_Lashes_diffuse_32: -7997021770723361391
+      Nurse_Lashes_diffuse_33: -7134160676684353811
+      Nurse_Lashes_diffuse_34: -1878054148252520363
+      Nurse_Lashes_diffuse_35: -4748749156957089005
+      Nurse_Lashes_diffuse_36: 8188339878850847058
+      Nurse_Lashes_diffuse_37: -9087564981792483714
+      Nurse_Lashes_diffuse_38: -2357769383914514615
+      Nurse_Lashes_diffuse_39: 9086497641764977787
+      Nurse_Lashes_diffuse_4: 6401942062352792272
+      Nurse_Lashes_diffuse_40: -5964726589734599710
+      Nurse_Lashes_diffuse_41: 395259042155449460
+      Nurse_Lashes_diffuse_42: -4092228416091300834
+      Nurse_Lashes_diffuse_43: -5426952134612639325
+      Nurse_Lashes_diffuse_44: -4476962328033720335
+      Nurse_Lashes_diffuse_45: 4400058387724235664
+      Nurse_Lashes_diffuse_46: -633163739134017561
+      Nurse_Lashes_diffuse_47: 117360187155900574
+      Nurse_Lashes_diffuse_48: -3602711881080056427
+      Nurse_Lashes_diffuse_49: -1854505219728299162
+      Nurse_Lashes_diffuse_5: 1816068932230780620
+      Nurse_Lashes_diffuse_50: -5249045573369416315
+      Nurse_Lashes_diffuse_51: -3342440186626606673
+      Nurse_Lashes_diffuse_52: 3841973356524685244
+      Nurse_Lashes_diffuse_53: 807399111052667014
+      Nurse_Lashes_diffuse_6: 4562913353960481303
+      Nurse_Lashes_diffuse_7: -2551510451673653628
+      Nurse_Lashes_diffuse_8: 4775577944098690503
+      Nurse_Lashes_diffuse_9: 2546576997186361128
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
