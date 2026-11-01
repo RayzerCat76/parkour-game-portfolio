@@ -1,0 +1,7 @@
+# Parkour game: review build and source provenance
+
+The [v580 macOS review build](https://github.com/RayzerCat76/parkour-game-portfolio/releases/tag/portfolio-2026-11-01) was built with Unity 6000.4.11f1 on 26 October 2026. It is the downloadable app presented for review. Ray reports a complete start-to-ending manual playthrough of v580; that run was not recorded. A separate automated run on 1 November reached Fragments, failed to verify the fourth voice-route movement, and ended with a native double fault before later chapters. These are distinct observations.
+
+The public `UnityProject/` was copied from the later development worktree after a v591 walking experiment. That experiment built but failed the street-turn review, and it was not released. No exact v580 source snapshot has been identified for this portfolio repository. **The automatic GitHub source archive for the v580 release is therefore not the source that built the v580 app.** The public project shows the latest development code and assets; the release asset is the playable review candidate. Do not describe them as a reproducible source/binary pair.
+
+For the design-to-build trail, start with the [four original concept sheets](initial-design/README.md), then the [development account](../PORTFOLIO.md), the dated v241/v306/v316 clips prepared as SlideRoom attachments, and the v580 release. A current v580 gameplay video would improve the release evidence; no such recording is claimed here.

@@ -11,3 +11,9 @@ The available build is **v580, a review candidate**. Ray reports that his last c
 The source snapshot in this repository was copied from the latest local development worktree after that v591 experiment. It contains newer experimental code than the v580 downloadable build. It should be read as development source, not as an exact source match for the v580 binary or a final accepted version.
 
 See [PORTFOLIO.md](PORTFOLIO.md) for the initial design, changes, and current scope. See [CREDITS.md](CREDITS.md) for collaborators, GPT assistance, and third-party material.
+
+## Where to look
+
+- [Concept sheets with a reading guide](docs/initial-design/README.md) → [development account](PORTFOLIO.md) → [v580 release](https://github.com/RayzerCat76/parkour-game-portfolio/releases/tag/portfolio-2026-11-01).
+- [Build provenance and source limitation](docs/BUILD_PROVENANCE.md): the v580 binary and the newer public source snapshot are different revisions.
+- [Unity scene](UnityProject/Assets/ReturnRedesign/Return.unity), [game flow](UnityProject/Assets/ReturnRedesign/Runtime/ReturnGame.cs), [movement](UnityProject/Assets/ReturnRedesign/Runtime/ReturnMotor.cs), [3D journey](UnityProject/Assets/ReturnRedesign/Runtime/ReturnJourney3D.cs), [ending](UnityProject/Assets/ReturnRedesign/Runtime/ReturnDoorReunion.cs), and [review checks](UnityProject/Assets/ReturnRedesign/Runtime/ReturnAcceptance.cs).

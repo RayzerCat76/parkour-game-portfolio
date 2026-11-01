@@ -14,6 +14,8 @@ Ray reports that his last complete start-to-ending manual playthrough of the dow
 
 `UnityProject/` contains the latest local source snapshot as of 1 November 2026. Its newer experimental code is not identical to the v580 binary. The source includes Unity assets, packages, project settings, and the game-specific rebuild/build tools; generated caches and the private design audio are excluded.
 
+The [build-provenance note](docs/BUILD_PROVENANCE.md) makes the source/build distinction explicit and links the original sheets to the review build.
+
 ## What I contributed
 
 Ray directed implementation, prompts/specifications, iteration, playtesting, and decisions about which versions to retain. GPT/Codex generated substantial portions of code, visuals, audio, tooling, tests, and documentation under Ray's direction; Ray reviewed the outputs and supplied corrections. Weiguo Tang contributed to the original design and lore discussions and gave feedback. [Detailed credits](CREDITS.md) distinguish these roles and third-party source material.
