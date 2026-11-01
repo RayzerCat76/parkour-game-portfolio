@@ -5,6 +5,7 @@
 - **OpenAI GPT/Codex:** generated or substantially assisted with game code, artwork/textures, audio, editor and build tooling, tests, and documentation from Ray's specifications and feedback. These are AI-assisted outputs, not claimed as wholly hand-coded or hand-drawn by Ray.
 - **Unity Technologies:** Unity engine and packages supply rendering, physics, input, UI, and build infrastructure. The project uses Unity 6000.4.11f1.
 - **MakeHuman:** CC0 source material is present in `UnityProject/Assets/ReturnRedesign/Art/Resources/ReturnRealism/`. The accompanying CC0 notice is preserved there. Ray/GPT adapted the material for this game's character/scene work.
+- **Poly Haven:** [Forest Ground 01](https://polyhaven.com/a/forrest_ground_01) texture by Rob Tuytel supplies the island ground maps; [Namaqualand Boulder 06](https://polyhaven.com/a/namaqualand_boulder_06), photographed by Greg Zaal and modelled by Jenelle van Heerden, supplies the adapted shore rock mesh and maps; [Grass Bermuda 01](https://polyhaven.com/a/grass_bermuda_01) by Rico Cilliers supplies the adapted island grass mesh and maps. These are imported assets, not original models or textures by Ray. Poly Haven publishes them under [CC0](https://polyhaven.com/license).
 - **Blender:** used as an authoring and baking tool for project meshes/materials; it is not itself a source of third-party game content.
 
 An archived CMU motion-capture walk was inspected during development but was not integrated into the playable game and is not included in this public source snapshot.
