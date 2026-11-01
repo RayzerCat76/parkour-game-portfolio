@@ -6,11 +6,11 @@ A story-driven parkour game made in Unity. The playable journey moves through da
 
 Download the macOS build from [Releases](https://github.com/RayzerCat76/parkour-game-portfolio/releases). Open `Return.app`, then press **Enter** to begin. Use **A/D** to move, **Space** to jump, **E** to interact, and **Tab** to inspect memories. The source project is under `UnityProject/` and targets Unity 6000.4.11f1.
 
-The available build is **v580, a review candidate**. Ray reports that his last complete start-to-ending manual playthrough of this build passed; that run is not recorded in this repository. In a separate automated check on 1 November 2026, the build reached the Fragments chapter but failed to verify movement during the fourth voice route; the process then ended with a native double fault. Later chapters were not assessed in that automated run. The later v591 walking revision built but failed a street-turn review, so v580 remains the usable build.
+The available build is **v580, a review candidate**. Ray confirms a complete start-to-ending manual recording of this build on 1 November 2026; a silent edited excerpt is prepared locally for the Maker Portfolio but is not hosted in this repository. In a separate automated check on 1 November 2026, the build reached the Fragments chapter but failed to verify movement during the fourth voice route; the process then ended with a native double fault. Later chapters were not assessed in that automated run. The later v591 walking revision built but failed a street-turn review, so v580 remains the usable build.
 
 The source snapshot in this repository was copied from the latest local development worktree after that v591 experiment. It contains newer experimental code than the v580 downloadable build. It should be read as development source, not as an exact source match for the v580 binary or a final accepted version.
 
-See [PORTFOLIO.md](PORTFOLIO.md) for the initial design, changes, and current scope. See [CREDITS.md](CREDITS.md) for collaborators, GPT assistance, and third-party material.
+See [PORTFOLIO.md](PORTFOLIO.md) for the initial design, changes, and current scope. See [CREDITS.md](CREDITS.md) for collaborators, GPT assistance, macOS synthetic voices, and third-party material.
 
 ## Where to look
 
